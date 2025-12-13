@@ -445,27 +445,27 @@ $SKPOLY
   9
 $TDCREATE
  40
-2461021.442798160
+2461021.485126806
   9
 $TDUCREATE
  40
-2461021.401131493
+2461021.443460139
   9
 $TDUPDATE
  40
-2461021.443535220
+2461021.485630197
   9
 $TDUUPDATE
  40
-2461021.401868553
+2461021.443963530
   9
 $TDINDWG
  40
-0.0007380093
+0.0005042708
   9
 $TDUSRTIMER
  40
-0.0007378819
+0.0005041319
   9
 $USRTIMER
  70
@@ -505,7 +505,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-216
+AB
   9
 $SURFTAB1
  70
@@ -885,11 +885,11 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{1E777CEE-BFFE-4555-BC25-ADFEF399B305}
+{1CA77573-EF28-4D86-9CFF-0231C267995A}
   9
 $VERSIONGUID
   2
-{BBB9CD57-E6DE-4B6B-B7A2-D33F0C4BD9DE}
+{E76949F8-6519-4E20-A2F2-E5DC866F2168}
   9
 $EXTNAMES
 290
@@ -8899,7 +8899,7 @@ TABLE
   2
 VPORT
   5
-1BF
+54
 330
 0
 100
@@ -8909,9 +8909,9 @@ AcDbSymbolTable
   0
 VPORT
   5
-1C0
+55
 330
-1BF
+54
 100
 AcDbSymbolTableRecord
 100
@@ -8929,9 +8929,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-7145973.983736886
+7145935.341618439
  22
-4381588.119170003
+4381707.108973462
  13
 0.0
  23
@@ -8957,9 +8957,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-491.1605175901204
+208.5687578525394
  41
-2.378616352201258
+2.378616352201257
  42
 50.0
  43
@@ -9023,7 +9023,7 @@ TABLE
   2
 LTYPE
   5
-1BA
+4F
 330
 0
 100
@@ -9033,9 +9033,9 @@ AcDbSymbolTable
   0
 LTYPE
   5
-1BB
+50
 330
-1BA
+4F
 100
 AcDbSymbolTableRecord
 100
@@ -9055,9 +9055,9 @@ ByBlock
   0
 LTYPE
   5
-1BC
+51
 330
-1BA
+4F
 100
 AcDbSymbolTableRecord
 100
@@ -9079,7 +9079,7 @@ LTYPE
   5
 F
 330
-1BA
+4F
 100
 AcDbSymbolTableRecord
 100
@@ -9099,9 +9099,9 @@ Solid line
   0
 LTYPE
   5
-197
+31
 330
-1BA
+4F
 100
 AcDbSymbolTableRecord
 100
@@ -9133,11 +9133,11 @@ TABLE
   2
 LAYER
   5
-1B2
+47
 102
 {ACAD_XDICTIONARY
 360
-1B3
+48
 102
 }
 330
@@ -9145,7 +9145,7 @@ LAYER
 100
 AcDbSymbolTable
  70
-    15
+    13
   0
 LAYER
   5
@@ -9157,7 +9157,7 @@ LAYER
 102
 }
 330
-1B2
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9177,9 +9177,9 @@ Continuous
   0
 LAYER
   5
-15
+11
 330
-1B2
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9203,57 +9203,9 @@ AcCmTransparency
   0
 LAYER
   5
-121
+15
 330
-1B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Nr-Kojshi
- 70
-     0
- 62
-   251
-  6
-Continuous
-370
-     0
-390
-8
-1001
-AcCmTransparency
-1071
-        0
-  0
-LAYER
-  5
-16B
-330
-1B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-Parcela Baze
- 70
-     0
- 62
-     7
-  6
-Continuous
-370
-     0
-390
-8
-  0
-LAYER
-  5
-124
-330
-1B2
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9273,9 +9225,9 @@ Continuous
   0
 LAYER
   5
-183
+19
 330
-1B2
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9299,9 +9251,9 @@ AcCmTransparency
   0
 LAYER
   5
-18D
+24
 330
-1B2
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9311,7 +9263,7 @@ Ndarjet
  70
      0
  62
-     1
+   171
   6
 Continuous
 370
@@ -9325,127 +9277,9 @@ AcCmTransparency
   0
 LAYER
   5
-11
+1E
 330
-1B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-propozim
- 70
-     0
- 62
-     6
-  6
-Continuous
-370
-     0
-390
-8
-1001
-AcCmTransparency
-1071
-        0
-  0
-LAYER
-  5
-130
-330
-1B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-BuildingBoundaryPoint
- 70
-     0
- 62
-   256
-  6
-Continuous
-370
-     0
-390
-8
-  0
-LAYER
-  5
-133
-330
-1B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-BuildingBoundaryLine
- 70
-     0
- 62
-   256
-  6
-Continuous
-370
-     0
-390
-8
-  0
-LAYER
-  5
-137
-330
-1B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-BuildingReferencePoint
- 70
-     0
- 62
-   256
-  6
-Continuous
-370
-     0
-390
-8
-  0
-LAYER
-  5
-181
-330
-1B2
-100
-AcDbSymbolTableRecord
-100
-AcDbLayerTableRecord
-  2
-rrethoja
- 70
-     0
- 62
-     3
-  6
-Continuous
-370
-     0
-390
-8
-1001
-AcCmTransparency
-1071
-        0
-  0
-LAYER
-  5
-188
-330
-1B2
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9469,9 +9303,9 @@ AcCmTransparency
   0
 LAYER
   5
-192
+26
 330
-1B2
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9495,9 +9329,61 @@ AcCmTransparency
   0
 LAYER
   5
-196
+2C
 330
-1B2
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+kati 0
+ 70
+     0
+ 62
+     1
+  6
+Continuous
+370
+     0
+390
+8
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+2E
+330
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+kati 1
+ 70
+     0
+ 62
+     5
+  6
+Continuous
+370
+     0
+390
+8
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+30
+330
+47
 100
 AcDbSymbolTableRecord
 100
@@ -9519,13 +9405,87 @@ AcCmTransparency
 1071
         0
   0
+LAYER
+  5
+37
+330
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+kati 3
+ 70
+     0
+ 62
+   177
+  6
+Continuous
+370
+     0
+390
+8
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+33
+330
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+kati 3 terasa
+ 70
+     0
+ 62
+   215
+  6
+DASHED
+370
+     0
+390
+8
+1001
+AcCmTransparency
+1071
+        0
+  0
+LAYER
+  5
+3A
+330
+47
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Parcela Baze
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+370
+     0
+390
+8
+  0
 ENDTAB
   0
 TABLE
   2
 STYLE
   5
-1B8
+4D
 330
 0
 100
@@ -9535,9 +9495,9 @@ AcDbSymbolTable
   0
 STYLE
   5
-122
+16
 330
-1B8
+4D
 100
 AcDbSymbolTableRecord
 100
@@ -9567,7 +9527,7 @@ TABLE
   2
 VIEW
   5
-1BD
+52
 330
 0
 100
@@ -9581,7 +9541,7 @@ TABLE
   2
 UCS
   5
-1BE
+53
 330
 0
 100
@@ -9595,7 +9555,7 @@ TABLE
   2
 APPID
   5
-1C4
+59
 330
 0
 100
@@ -9605,9 +9565,9 @@ AcDbSymbolTable
   0
 APPID
   5
-1B7
+4C
 330
-1C4
+59
 100
 AcDbSymbolTableRecord
 100
@@ -9619,9 +9579,9 @@ ACAD
   0
 APPID
   5
-1C3
+58
 330
-1C4
+59
 100
 AcDbSymbolTableRecord
 100
@@ -9635,7 +9595,7 @@ APPID
   5
 12
 330
-1C4
+59
 100
 AcDbSymbolTableRecord
 100
@@ -9649,7 +9609,7 @@ APPID
   5
 B
 330
-1C4
+59
 100
 AcDbSymbolTableRecord
 100
@@ -9661,9 +9621,9 @@ ADE
   0
 APPID
   5
-1FD
+92
 330
-1C4
+59
 100
 AcDbSymbolTableRecord
 100
@@ -9679,7 +9639,7 @@ TABLE
   2
 DIMSTYLE
   5
-1C5
+5A
 330
 0
 100
@@ -9691,13 +9651,13 @@ AcDbDimStyleTable
  71
      1
 340
-1C6
+5B
   0
 DIMSTYLE
 105
-1C6
+5B
 330
-1C5
+5A
 100
 AcDbSymbolTableRecord
 100
@@ -9707,7 +9667,7 @@ Standard
  70
      0
 340
-122
+16
   0
 ENDTAB
   0
@@ -9741,11 +9701,11 @@ AcDbBlockTableRecord
   2
 *Model_Space
 340
-1A7
+3C
   0
 BLOCK_RECORD
   5
-1AA
+3F
 330
 1
 100
@@ -9755,11 +9715,11 @@ AcDbBlockTableRecord
   2
 *Paper_Space
 340
-1AD
+42
   0
 BLOCK_RECORD
   5
-1AE
+43
 330
 1
 100
@@ -9769,7 +9729,7 @@ AcDbBlockTableRecord
   2
 *Paper_Space0
 340
-1B1
+46
   0
 ENDTAB
   0
@@ -9807,7 +9767,7 @@ AcDbBlockBegin
   0
 ENDBLK
   5
-1A6
+3B
 330
 2
 100
@@ -9819,9 +9779,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-1AB
+40
 330
-1AA
+3F
 100
 AcDbEntity
  67
@@ -9847,9 +9807,9 @@ AcDbBlockBegin
   0
 ENDBLK
   5
-1AC
+41
 330
-1AA
+3F
 100
 AcDbEntity
  67
@@ -9861,9 +9821,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-1AF
+44
 330
-1AE
+43
 100
 AcDbEntity
  67
@@ -9889,9 +9849,9 @@ AcDbBlockBegin
   0
 ENDBLK
   5
-1B0
+45
 330
-1AE
+43
 100
 AcDbEntity
  67
@@ -9907,239 +9867,9 @@ SECTION
   2
 ENTITIES
   0
-LINE
+LWPOLYLINE
   5
 10
-330
-2
-100
-AcDbEntity
-  8
-propozim
-100
-AcDbLine
- 10
-7516744.303135251
- 20
-4692287.016088781
- 30
-0.0
- 11
-7516731.267676296
- 21
-4692285.949550185
- 31
-0.0
-  0
-LINE
-  5
-13
-330
-2
-100
-AcDbEntity
-  8
-propozim
-100
-AcDbLine
- 10
-7516746.831654943
- 20
-4692252.103394599
- 30
-0.0
- 11
-7516744.303135251
- 21
-4692287.016088781
- 31
-0.0
-  0
-LWPOLYLINE
-  5
-14
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516711.883
- 20
-4692455.844
- 10
-7516739.003
- 20
-4692460.472
-  0
-LWPOLYLINE
-  5
-16
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516679.867999999
- 20
-4692452.538
- 10
-7516711.883
- 20
-4692455.844
-  0
-LWPOLYLINE
-  5
-17
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516601.303999999
- 20
-4692439.451000001
- 10
-7516614.648
- 20
-4692440.899000001
-  0
-LWPOLYLINE
-  5
-18
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516440.781
- 20
-4692392.657
- 10
-7516488.09
- 20
-4692399.374999999
-  0
-LWPOLYLINE
-  5
-19
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516488.09
- 20
-4692399.374999999
- 10
-7516538.241000001
- 20
-4692407.387
-  0
-LWPOLYLINE
-  5
-1A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516538.241000001
- 20
-4692407.387
- 10
-7516555.177
- 20
-4692410.894
-  0
-LWPOLYLINE
-  5
-1B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516555.177
- 20
-4692410.894
- 10
-7516591.820000001
- 20
-4692416.235
-  0
-LWPOLYLINE
-  5
-1C
 330
 2
 100
@@ -10165,1359 +9895,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-1D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516774.955
- 20
-4692323.602
- 10
-7516769.601
- 20
-4692352.057
-  0
-LWPOLYLINE
-  5
-1E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516769.601
- 20
-4692352.057
- 10
-7516747.376
- 20
-4692440.183
-  0
-LWPOLYLINE
-  5
-1F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516757.7
- 20
-4692242.649
- 10
-7516789.694
- 20
-4692215.612
-  0
-LWPOLYLINE
-  5
-20
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516789.694
- 20
-4692215.612
- 10
-7516785.775
- 20
-4692248.678
-  0
-LWPOLYLINE
-  5
-21
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516785.775
- 20
-4692248.678
- 10
-7516783.725
- 20
-4692273.378
-  0
-LWPOLYLINE
-  5
-22
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516783.725
- 20
-4692273.378
- 10
-7516774.955
- 20
-4692323.602
-  0
-LWPOLYLINE
-  5
-23
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516837.205
- 20
-4692286.881
- 10
-7516821.059999999
- 20
-4692368.729
-  0
-LWPOLYLINE
-  5
-24
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516821.059999999
- 20
-4692368.729
- 10
-7516817.826
- 20
-4692382.135999999
-  0
-LWPOLYLINE
-  5
-25
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516817.826
- 20
-4692382.135999999
- 10
-7516817.452
- 20
-4692383.423
-  0
-LWPOLYLINE
-  5
-26
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516789.694
- 20
-4692215.612
- 10
-7516843.426
- 20
-4692170.083999999
-  0
-LWPOLYLINE
-  5
-27
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516842.859
- 20
-4692201.139
- 10
-7516837.205
- 20
-4692286.88
-  0
-LWPOLYLINE
-  5
-28
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516837.205
- 20
-4692286.88
- 10
-7516837.205
- 20
-4692286.881
-  0
-LWPOLYLINE
-  5
-29
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516829.43
- 20
-4692369.730000001
- 10
-7516845.92
- 20
-4692287.07
-  0
-LWPOLYLINE
-  5
-2A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516843.426
- 20
-4692170.083999999
- 10
-7516849.96
- 20
-4692164.51
-  0
-LWPOLYLINE
-  5
-2B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516591.820000001
- 20
-4692416.235
- 10
-7516700.839999999
- 20
-4692322.801
-  0
-LWPOLYLINE
-  5
-2C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516700.45
- 20
-4692326.5
- 10
-7516700.839999999
- 20
-4692322.801
-  0
-LWPOLYLINE
-  5
-2D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516568.918
- 20
-4692400.97
- 10
-7516704.59
- 20
-4692287.19
-  0
-LWPOLYLINE
-  5
-2E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516700.839999999
- 20
-4692322.801
- 10
-7516704.59
- 20
-4692287.19
-  0
-LWPOLYLINE
-  5
-2F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516843.190000001
- 20
-4692182.83
- 10
-7516842.859
- 20
-4692201.139
-  0
-LWPOLYLINE
-  5
-30
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516843.426
- 20
-4692170.083999999
- 10
-7516843.190000001
- 20
-4692182.83
-  0
-LWPOLYLINE
-  5
-31
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516772.95
- 20
-4692436.26
- 10
-7516769.33
- 20
-4692425.929999999
-  0
-LWPOLYLINE
-  5
-32
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516769.33
- 20
-4692425.929999999
- 10
-7516777.51
- 20
-4692390.009999999
-  0
-LWPOLYLINE
-  5
-33
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516777.51
- 20
-4692390.009999999
- 10
-7516795.31
- 20
-4692337.450000001
-  0
-LWPOLYLINE
-  5
-34
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516795.31
- 20
-4692337.450000001
- 10
-7516805.24
- 20
-4692276.55
-  0
-LWPOLYLINE
-  5
-35
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516805.24
- 20
-4692276.55
- 10
-7516810.519999999
- 20
-4692224.48
-  0
-LWPOLYLINE
-  5
-36
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516810.519999999
- 20
-4692224.48
- 10
-7516814.09
- 20
-4692212.76
-  0
-LWPOLYLINE
-  5
-37
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516820.110000001
- 20
-4692201.709999999
- 10
-7516827.27
- 20
-4692193.389999999
-  0
-LWPOLYLINE
-  5
-38
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516827.27
- 20
-4692193.389999999
- 10
-7516835.94
- 20
-4692186.66
-  0
-LWPOLYLINE
-  5
-39
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516835.94
- 20
-4692186.66
- 10
-7516843.190000001
- 20
-4692182.83
-  0
-LWPOLYLINE
-  5
-3A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516814.09
- 20
-4692212.76
- 10
-7516817.6
- 20
-4692206.320000001
-  0
-LWPOLYLINE
-  5
-3B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516817.6
- 20
-4692206.320000001
- 10
-7516820.110000001
- 20
-4692201.709999999
-  0
-LWPOLYLINE
-  5
-3C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516817.452
- 20
-4692383.423
- 10
-7516799.72
- 20
-4692444.35
-  0
-LWPOLYLINE
-  5
-3D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516777.389999999
- 20
-4692435.19
- 10
-7516774.160000001
- 20
-4692428.66
-  0
-LWPOLYLINE
-  5
-3E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516774.160000001
- 20
-4692428.66
- 10
-7516776.43
- 20
-4692418.009999999
-  0
-LWPOLYLINE
-  5
-3F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516776.43
- 20
-4692418.009999999
- 10
-7516776.02
- 20
-4692410.04
-  0
-LWPOLYLINE
-  5
-40
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516776.02
- 20
-4692410.04
- 10
-7516780.400000001
- 20
-4692390.82
-  0
-LWPOLYLINE
-  5
-41
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516780.400000001
- 20
-4692390.82
- 10
-7516795.64
- 20
-4692345.839999999
-  0
-LWPOLYLINE
-  5
-42
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516795.64
- 20
-4692345.839999999
- 10
-7516799.59
- 20
-4692340.67
-  0
-LWPOLYLINE
-  5
-43
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516799.59
- 20
-4692340.67
- 10
-7516824.190000001
- 20
-4692316.48
-  0
-LWPOLYLINE
-  5
-44
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516824.190000001
- 20
-4692316.48
- 10
-7516834.530000001
- 20
-4692266.68
-  0
-LWPOLYLINE
-  5
-45
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516834.530000001
- 20
-4692266.68
- 10
-7516817.6
- 20
-4692234.16
-  0
-LWPOLYLINE
-  5
-46
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516817.6
- 20
-4692234.16
- 10
-7516817.6
- 20
-4692206.320000001
-  0
-LWPOLYLINE
-  5
-47
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516808.63
- 20
-4692446.7
- 10
-7516829.43
- 20
-4692369.730000001
-  0
-LWPOLYLINE
-  5
-48
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516843.190000001
- 20
-4692182.83
- 10
-7516849.8
- 20
-4692180.44
-  0
-LWPOLYLINE
-  5
-49
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516842.678
- 20
-4692372.482
- 10
-7516831.872000001
- 20
-4692412.456
-  0
-LWPOLYLINE
-  5
-4A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516831.872000001
- 20
-4692412.456
- 10
-7516821.701000001
- 20
-4692450.08
-  0
-LWPOLYLINE
-  5
-4B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516844.693
- 20
-4692416.058
- 10
-7516831.872000001
- 20
-4692412.456
-  0
-LWPOLYLINE
-  5
-4C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516614.648
- 20
-4692440.899000001
- 10
-7516650.56
- 20
-4692447.31
-  0
-LWPOLYLINE
-  5
-4D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516650.56
- 20
-4692447.31
- 10
-7516679.867999999
- 20
-4692452.538
-  0
-LWPOLYLINE
-  5
-4E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516591.820000001
- 20
-4692416.235
- 10
-7516653.89
- 20
-4692425.860000001
-  0
-LWPOLYLINE
-  5
-4F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516653.89
- 20
-4692425.860000001
- 10
-7516672.2
- 20
-4692428.54
-  0
-LWPOLYLINE
-  5
-50
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516650.56
- 20
-4692447.31
- 10
-7516653.89
- 20
-4692425.860000001
-  0
-LWPOLYLINE
-  5
-51
+13
 330
 2
 100
@@ -11541,5605 +9919,9 @@ AcDbPolyline
  20
 4692440.183
   0
-LWPOLYLINE
-  5
-52
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516747.376
- 20
-4692440.183
- 10
-7516798.681
- 20
-4692447.911
-  0
-LWPOLYLINE
-  5
-53
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516798.681
- 20
-4692447.911
- 10
-7516807.940000001
- 20
-4692449.27
-  0
-LWPOLYLINE
-  5
-54
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516807.940000001
- 20
-4692449.27
- 10
-7516821.319
- 20
-4692451.318
-  0
-LWPOLYLINE
-  5
-55
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516821.319
- 20
-4692451.318
- 10
-7516833.566999999
- 20
-4692453.454
-  0
-LWPOLYLINE
-  5
-56
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516833.566999999
- 20
-4692453.454
- 10
-7516843.900000001
- 20
-4692455.09
-  0
-LWPOLYLINE
-  5
-57
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516843.900000001
- 20
-4692455.09
- 10
-7516846.817000001
- 20
-4692455.548999999
-  0
-LWPOLYLINE
-  5
-58
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516846.817000001
- 20
-4692455.548999999
- 10
-7516849.349
- 20
-4692447.341
-  0
-LWPOLYLINE
-  5
-59
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516843.900000001
- 20
-4692455.09
- 10
-7516855.46
- 20
-4692416.13
-  0
-LWPOLYLINE
-  5
-5A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516869.586
- 20
-4692458.794
- 10
-7516883.679999999
- 20
-4692460.71
-  0
-LWPOLYLINE
-  5
-5B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516846.817000001
- 20
-4692455.548999999
- 10
-7516854.3
- 20
-4692456.349999999
-  0
-LWPOLYLINE
-  5
-5C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516854.3
- 20
-4692456.349999999
- 10
-7516869.586
- 20
-4692458.794
-  0
-LWPOLYLINE
-  5
-5D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516798.87
- 20
-4692447.26
- 10
-7516798.681
- 20
-4692447.911
-  0
-LWPOLYLINE
-  5
-5E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516798.87
- 20
-4692447.26
- 10
-7516780.83
- 20
-4692440.379999999
-  0
-LWPOLYLINE
-  5
-5F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516780.83
- 20
-4692440.379999999
- 10
-7516772.95
- 20
-4692436.26
-  0
-LWPOLYLINE
-  5
-60
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516799.72
- 20
-4692444.35
- 10
-7516798.87
- 20
-4692447.26
-  0
-LWPOLYLINE
-  5
-61
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516799.72
- 20
-4692444.35
- 10
-7516777.389999999
- 20
-4692435.19
-  0
-LWPOLYLINE
-  5
-62
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516807.940000001
- 20
-4692449.27
- 10
-7516808.63
- 20
-4692446.7
-  0
-LWPOLYLINE
-  5
-63
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516799.72
- 20
-4692444.35
- 10
-7516808.63
- 20
-4692446.7
-  0
-LWPOLYLINE
-  5
-64
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516821.701000001
- 20
-4692450.08
- 10
-7516821.319
- 20
-4692451.318
-  0
-LWPOLYLINE
-  5
-65
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516833.566999999
- 20
-4692453.454
- 10
-7516821.701000001
- 20
-4692450.08
-  0
-LWPOLYLINE
-  5
-66
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516833.566999999
- 20
-4692453.454
- 10
-7516844.693
- 20
-4692416.058
-  0
-LWPOLYLINE
-  5
-67
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516493.21
- 20
-4692400.276999999
- 10
-7516463.400000001
- 20
-4692395.918999999
-  0
-LWPOLYLINE
-  5
-68
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516463.400000001
- 20
-4692395.918999999
- 10
-7516482.428999999
- 20
-4692370.559
-  0
-LWPOLYLINE
-  5
-69
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516482.428999999
- 20
-4692370.559
- 10
-7516512.149
- 20
-4692375.107
-  0
-LWPOLYLINE
-  5
-6A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516512.149
- 20
-4692375.107
- 10
-7516493.21
- 20
-4692400.276999999
-  0
-LWPOLYLINE
-  5
-6B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516569.878
- 20
-4692400.211
- 10
-7516562.238
- 20
-4692406.123
-  0
-LWPOLYLINE
-  5
-6C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516562.238
- 20
-4692406.123
- 10
-7516555.177
- 20
-4692410.894
-  0
-LWPOLYLINE
-  5
-6D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516555.177
- 20
-4692410.894
- 10
-7516538.241000001
- 20
-4692407.387
-  0
-LWPOLYLINE
-  5
-6E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516538.241000001
- 20
-4692407.387
- 10
-7516493.21
- 20
-4692400.276999999
-  0
-LWPOLYLINE
-  5
-6F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516482.428999999
- 20
-4692370.559
- 10
-7516500.32
- 20
-4692347.179999999
-  0
-LWPOLYLINE
-  5
-70
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516500.32
- 20
-4692347.179999999
- 10
-7516517.38
- 20
-4692324.0
-  0
-LWPOLYLINE
-  5
-71
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516517.38
- 20
-4692324.0
- 10
-7516520.190000001
- 20
-4692320.03
-  0
-LWPOLYLINE
-  5
-72
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516520.190000001
- 20
-4692320.03
- 10
-7516555.803000001
- 20
-4692330.562
-  0
-LWPOLYLINE
-  5
-73
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516555.803000001
- 20
-4692330.562
- 10
-7516567.935
- 20
-4692281.101999999
-  0
-LWPOLYLINE
-  5
-74
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516567.935
- 20
-4692281.101999999
- 10
-7516586.62
- 20
-4692283.78
-  0
-LWPOLYLINE
-  5
-75
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516586.62
- 20
-4692283.78
- 10
-7516610.11
- 20
-4692287.849999999
-  0
-LWPOLYLINE
-  5
-76
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516610.11
- 20
-4692287.849999999
- 10
-7516609.623999999
- 20
-4692290.974
-  0
-LWPOLYLINE
-  5
-77
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516609.623999999
- 20
-4692290.974
- 10
-7516604.766
- 20
-4692311.576999999
-  0
-LWPOLYLINE
-  5
-78
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516604.766
- 20
-4692311.576999999
- 10
-7516600.295
- 20
-4692325.961
-  0
-LWPOLYLINE
-  5
-79
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516600.295
- 20
-4692325.961
- 10
-7516593.298
- 20
-4692339.956
-  0
-LWPOLYLINE
-  5
-7A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516589.022
- 20
-4692355.116
- 10
-7516571.919
- 20
-4692392.047000001
-  0
-LWPOLYLINE
-  5
-7B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516571.919
- 20
-4692392.047000001
- 10
-7516569.878
- 20
-4692400.211
-  0
-LWPOLYLINE
-  5
-7C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516928.398
- 20
-4692097.368999999
- 10
-7516891.702
- 20
-4692128.962
-  0
-LWPOLYLINE
-  5
-7D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516891.702
- 20
-4692128.962
- 10
-7516884.039
- 20
-4692135.864
-  0
-LWPOLYLINE
-  5
-7E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516884.039
- 20
-4692135.864
- 10
-7516877.991000001
- 20
-4692135.833
-  0
-LWPOLYLINE
-  5
-7F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516877.991000001
- 20
-4692135.833
- 10
-7516864.75
- 20
-4692128.674
-  0
-LWPOLYLINE
-  5
-80
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516864.75
- 20
-4692128.674
- 10
-7516850.39
- 20
-4692125.19
-  0
-LWPOLYLINE
-  5
-81
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516850.39
- 20
-4692125.19
- 10
-7516844.11
- 20
-4692123.66
-  0
-LWPOLYLINE
-  5
-82
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516844.11
- 20
-4692123.66
- 10
-7516843.426
- 20
-4692170.083999999
-  0
-LWPOLYLINE
-  5
-83
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516843.426
- 20
-4692170.083999999
- 10
-7516789.694
- 20
-4692215.612
-  0
-LWPOLYLINE
-  5
-84
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516789.694
- 20
-4692215.612
- 10
-7516757.7
- 20
-4692242.649
-  0
-LWPOLYLINE
-  5
-85
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516610.11
- 20
-4692287.849999999
- 10
-7516617.203
- 20
-4692243.158
-  0
-LWPOLYLINE
-  5
-86
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516617.203
- 20
-4692243.158
- 10
-7516619.147
- 20
-4692223.916
-  0
-LWPOLYLINE
-  5
-87
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516619.147
- 20
-4692223.916
- 10
-7516620.311
- 20
-4692178.627999999
-  0
-LWPOLYLINE
-  5
-88
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516620.311
- 20
-4692178.627999999
- 10
-7516621.282
- 20
-4692165.021
-  0
-LWPOLYLINE
-  5
-89
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516621.282
- 20
-4692165.021
- 10
-7516620.698
- 20
-4692134.7
-  0
-LWPOLYLINE
-  5
-8A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516616.031
- 20
-4692083.775
- 10
-7516610.517
- 20
-4692064.387
-  0
-LWPOLYLINE
-  5
-8B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516610.517
- 20
-4692064.387
- 10
-7516610.394
- 20
-4692058.508
-  0
-LWPOLYLINE
-  5
-8C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516610.394
- 20
-4692058.508
- 10
-7516629.053
- 20
-4692055.590999999
-  0
-LWPOLYLINE
-  5
-8D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516629.053
- 20
-4692055.590999999
- 10
-7516682.895999999
- 20
-4692028.377
-  0
-LWPOLYLINE
-  5
-8E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516682.895999999
- 20
-4692028.377
- 10
-7516691.837
- 20
-4692043.538
-  0
-LWPOLYLINE
-  5
-8F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516691.837
- 20
-4692043.538
- 10
-7516699.224000001
- 20
-4692044.703999999
-  0
-LWPOLYLINE
-  5
-90
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516699.224000001
- 20
-4692044.703999999
- 10
-7516737.516
- 20
-4692025.848
-  0
-LWPOLYLINE
-  5
-91
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516837.813000001
- 20
-4691985.61
- 10
-7516862.888
- 20
-4691973.946
-  0
-LWPOLYLINE
-  5
-92
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516620.311
- 20
-4692178.627999999
- 10
-7516596.381
- 20
-4692182.821999999
-  0
-LWPOLYLINE
-  5
-93
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516596.381
- 20
-4692182.821999999
- 10
-7516597.315
- 20
-4692153.461
-  0
-LWPOLYLINE
-  5
-94
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516597.315
- 20
-4692153.461
- 10
-7516597.500999999
- 20
-4692138.314000001
-  0
-LWPOLYLINE
-  5
-95
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516597.500999999
- 20
-4692138.314000001
- 10
-7516620.698
- 20
-4692134.7
-  0
-LWPOLYLINE
-  5
-96
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516619.147
- 20
-4692223.916
- 10
-7516579.925
- 20
-4692231.632
-  0
-LWPOLYLINE
-  5
-97
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516579.925
- 20
-4692231.632
- 10
-7516575.42
- 20
-4692227.48
-  0
-LWPOLYLINE
-  5
-98
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516575.42
- 20
-4692227.48
- 10
-7516563.28
- 20
-4692216.298
-  0
-LWPOLYLINE
-  5
-99
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516563.28
- 20
-4692216.298
- 10
-7516563.092
- 20
-4692186.002
-  0
-LWPOLYLINE
-  5
-9A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516563.092
- 20
-4692186.002
- 10
-7516596.381
- 20
-4692182.821999999
-  0
-LWPOLYLINE
-  5
-9B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516575.42
- 20
-4692227.48
- 10
-7516570.29
- 20
-4692227.690000001
-  0
-LWPOLYLINE
-  5
-9C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516494.082
- 20
-4692193.110999999
- 10
-7516507.29
- 20
-4692190.870000001
-  0
-LWPOLYLINE
-  5
-9D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516507.29
- 20
-4692190.870000001
- 10
-7516515.028
- 20
-4692189.558
-  0
-LWPOLYLINE
-  5
-9E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516515.028
- 20
-4692189.558
- 10
-7516536.161
- 20
-4692188.809
-  0
-LWPOLYLINE
-  5
-9F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516536.161
- 20
-4692188.809
- 10
-7516563.092
- 20
-4692186.002
-  0
-LWPOLYLINE
-  5
-A0
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516507.29
- 20
-4692190.870000001
- 10
-7516507.69
- 20
-4692183.43
-  0
-LWPOLYLINE
-  5
-A1
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516507.69
- 20
-4692183.43
- 10
-7516509.22
- 20
-4692160.450000001
-  0
-LWPOLYLINE
-  5
-A2
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516509.22
- 20
-4692160.450000001
- 10
-7516510.420000001
- 20
-4692138.44
-  0
-LWPOLYLINE
-  5
-A3
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516510.420000001
- 20
-4692138.44
- 10
-7516511.55
- 20
-4692107.9
-  0
-LWPOLYLINE
-  5
-A4
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516512.309999999
- 20
-4692078.15
- 10
-7516513.450000001
- 20
-4692063.09
-  0
-LWPOLYLINE
-  5
-A5
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516513.450000001
- 20
-4692063.09
- 10
-7516559.16
- 20
-4692070.804
-  0
-LWPOLYLINE
-  5
-A6
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516559.16
- 20
-4692070.804
- 10
-7516610.517
- 20
-4692064.387
-  0
-LWPOLYLINE
-  5
-A7
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516822.48
- 20
-4691984.768
- 10
-7516835.197
- 20
-4691980.093
-  0
-LWPOLYLINE
-  5
-A8
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516483.808
- 20
-4692052.100999999
- 10
-7516498.401999999
- 20
-4692053.352
-  0
-LWPOLYLINE
-  5
-A9
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516498.401999999
- 20
-4692053.352
- 10
-7516512.997000001
- 20
-4692055.714
-  0
-LWPOLYLINE
-  5
-AA
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516512.997000001
- 20
-4692055.714
- 10
-7516523.838
- 20
-4692060.161
-  0
-LWPOLYLINE
-  5
-AB
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516523.838
- 20
-4692060.161
- 10
-7516552.332000001
- 20
-4692065.441999999
-  0
-LWPOLYLINE
-  5
-AC
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516552.332000001
- 20
-4692065.441999999
- 10
-7516603.899
- 20
-4692058.073
-  0
-LWPOLYLINE
-  5
-AD
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516603.899
- 20
-4692058.073
- 10
-7516610.394
- 20
-4692058.508
-  0
-LWPOLYLINE
-  5
-AE
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516513.450000001
- 20
-4692063.09
- 10
-7516486.035
- 20
-4692058.463999999
-  0
-LWPOLYLINE
-  5
-AF
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516572.229000001
- 20
-4692028.007000001
- 10
-7516594.977000001
- 20
-4692046.104
-  0
-LWPOLYLINE
-  5
-B0
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516594.977000001
- 20
-4692046.104
- 10
-7516603.899
- 20
-4692058.073
-  0
-LWPOLYLINE
-  5
-B1
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516516.463
- 20
-4692035.102
- 10
-7516535.297
- 20
-4692040.727
-  0
-LWPOLYLINE
-  5
-B2
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516535.297
- 20
-4692040.727
- 10
-7516557.065
- 20
-4692041.704
-  0
-LWPOLYLINE
-  5
-B3
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516557.065
- 20
-4692041.704
- 10
-7516572.229000001
- 20
-4692028.007000001
-  0
-LWPOLYLINE
-  5
-B4
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516518.906000001
- 20
-4691976.647
- 10
-7516535.784
- 20
-4691993.523
-  0
-LWPOLYLINE
-  5
-B5
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516535.784
- 20
-4691993.523
- 10
-7516572.229000001
- 20
-4692028.007000001
-  0
-LWPOLYLINE
-  5
-B6
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516614.198
- 20
-4691985.391
- 10
-7516626.362000001
- 20
-4691974.537
-  0
-LWPOLYLINE
-  5
-B7
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516626.362000001
- 20
-4691974.537
- 10
-7516663.978
- 20
-4692006.909
-  0
-LWPOLYLINE
-  5
-B8
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516663.978
- 20
-4692006.909
- 10
-7516673.897
- 20
-4692015.704
-  0
-LWPOLYLINE
-  5
-B9
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516673.897
- 20
-4692015.704
- 10
-7516682.895999999
- 20
-4692028.377
-  0
-LWPOLYLINE
-  5
-BA
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516758.402
- 20
-4691981.585
- 10
-7516768.974999999
- 20
-4691989.514
-  0
-LWPOLYLINE
-  5
-BB
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516768.974999999
- 20
-4691989.514
- 10
-7516780.963000001
- 20
-4692001.975
-  0
-LWPOLYLINE
-  5
-BC
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516939.908
- 20
-4692089.064
- 10
-7516928.398
- 20
-4692097.368999999
-  0
-LWPOLYLINE
-  5
-BD
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516877.991000001
- 20
-4692135.833
- 10
-7516877.881
- 20
-4692140.644999999
-  0
-LWPOLYLINE
-  5
-BE
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516877.881
- 20
-4692140.644999999
- 10
-7516864.421
- 20
-4692152.553
-  0
-LWPOLYLINE
-  5
-BF
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516864.421
- 20
-4692152.553
- 10
-7516864.610999999
- 20
-4692138.774
-  0
-LWPOLYLINE
-  5
-C0
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516864.610999999
- 20
-4692138.774
- 10
-7516864.75
- 20
-4692128.674
-  0
-LWPOLYLINE
-  5
-C1
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516884.039
- 20
-4692135.864
- 10
-7516877.881
- 20
-4692140.644999999
-  0
-LWPOLYLINE
-  5
-C2
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516567.935
- 20
-4692281.101999999
- 10
-7516561.99
- 20
-4692280.25
-  0
-LWPOLYLINE
-  5
-C3
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516520.190000001
- 20
-4692320.03
- 10
-7516507.738999999
- 20
-4692316.351
-  0
-LWPOLYLINE
-  5
-C4
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516864.421
- 20
-4692152.553
- 10
-7516849.96
- 20
-4692164.51
-  0
-LWPOLYLINE
-  5
-C5
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516849.96
- 20
-4692164.51
- 10
-7516850.39
- 20
-4692125.19
-  0
-LWPOLYLINE
-  5
-C6
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516849.96
- 20
-4692164.51
- 10
-7516843.426
- 20
-4692170.083999999
-  0
-LWPOLYLINE
-  5
-C7
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516704.59
- 20
-4692287.19
- 10
-7516569.878
- 20
-4692400.211
-  0
-LWPOLYLINE
-  5
-C8
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516593.298
- 20
-4692339.956
- 10
-7516591.925
- 20
-4692344.822999999
-  0
-LWPOLYLINE
-  5
-C9
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516591.925
- 20
-4692344.822999999
- 10
-7516589.022
- 20
-4692355.116
-  0
-LWPOLYLINE
-  5
-CA
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516555.803000001
- 20
-4692330.562
- 10
-7516591.925
- 20
-4692344.822999999
-  0
-LWPOLYLINE
-  5
-CB
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516966.940000001
- 20
-4692063.88
- 10
-7516939.908
- 20
-4692089.064
-  0
-LWPOLYLINE
-  5
-CC
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516997.97
- 20
-4692035.52
- 10
-7516966.940000001
- 20
-4692063.88
-  0
-LWPOLYLINE
-  5
-CD
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7517046.020999999
- 20
-4691991.601999999
- 10
-7517031.92
- 20
-4692004.49
-  0
-LWPOLYLINE
-  5
-CE
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7517060.04
- 20
-4691979.86
- 10
-7517046.020999999
- 20
-4691991.601999999
-  0
-LWPOLYLINE
-  5
-CF
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516939.908
- 20
-4692089.064
- 10
-7516939.480000001
- 20
-4692056.28
-  0
-LWPOLYLINE
-  5
-D0
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516966.940000001
- 20
-4692063.88
- 10
-7516939.480000001
- 20
-4692056.28
-  0
-LWPOLYLINE
-  5
-D1
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516939.480000001
- 20
-4692056.28
- 10
-7516938.969999999
- 20
-4692018.24
-  0
-LWPOLYLINE
-  5
-D2
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516926.820000001
- 20
-4692053.06
- 10
-7516928.398
- 20
-4692097.368999999
-  0
-LWPOLYLINE
-  5
-D3
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516925.549999999
- 20
-4692014.620000001
- 10
-7516926.820000001
- 20
-4692053.06
-  0
-LWPOLYLINE
-  5
-D4
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516997.97
- 20
-4692035.52
- 10
-7516967.2
- 20
-4692025.88
-  0
-LWPOLYLINE
-  5
-D5
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516967.2
- 20
-4692025.88
- 10
-7516938.969999999
- 20
-4692018.24
-  0
-LWPOLYLINE
-  5
-D6
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516939.480000001
- 20
-4692056.28
- 10
-7516926.820000001
- 20
-4692053.06
-  0
-LWPOLYLINE
-  5
-D7
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516938.969999999
- 20
-4692018.24
- 10
-7516926.76
- 20
-4692014.94
-  0
-LWPOLYLINE
-  5
-D8
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516926.76
- 20
-4692014.94
- 10
-7516925.549999999
- 20
-4692014.620000001
-  0
-LWPOLYLINE
-  5
-D9
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516782.222
- 20
-4692005.826
- 10
-7516821.178999999
- 20
-4691991.659
-  0
-LWPOLYLINE
-  5
-DA
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516837.813000001
- 20
-4691985.61
- 10
-7516821.178999999
- 20
-4691991.659
-  0
-LWPOLYLINE
-  5
-DB
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516925.549999999
- 20
-4692014.620000001
- 10
-7516906.79
- 20
-4692009.719999999
-  0
-LWPOLYLINE
-  5
-DC
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516906.79
- 20
-4692009.719999999
- 10
-7516880.26
- 20
-4692003.83
-  0
-LWPOLYLINE
-  5
-DD
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516880.26
- 20
-4692003.83
- 10
-7516858.730000001
- 20
-4691998.99
-  0
-LWPOLYLINE
-  5
-DE
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516858.730000001
- 20
-4691998.99
- 10
-7516833.83
- 20
-4691993.4
-  0
-LWPOLYLINE
-  5
-DF
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516778.6
- 20
-4692015.36
- 10
-7516809.460000001
- 20
-4692004.21
-  0
-LWPOLYLINE
-  5
-E0
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516809.460000001
- 20
-4692004.21
- 10
-7516818.950000001
- 20
-4692000.0
-  0
-LWPOLYLINE
-  5
-E1
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516818.950000001
- 20
-4692000.0
- 10
-7516833.83
- 20
-4691993.4
-  0
-LWPOLYLINE
-  5
-E2
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516938.73
- 20
-4691999.786000001
- 10
-7516940.212
- 20
-4691975.454
-  0
-LWPOLYLINE
-  5
-E3
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7517031.92
- 20
-4692004.49
- 10
-7516983.89
- 20
-4691989.06
-  0
-LWPOLYLINE
-  5
-E4
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516983.89
- 20
-4691989.06
- 10
-7516953.8
- 20
-4691979.67
-  0
-LWPOLYLINE
-  5
-E5
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516953.8
- 20
-4691979.67
- 10
-7516940.212
- 20
-4691975.454
-  0
-LWPOLYLINE
-  5
-E6
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516691.837
- 20
-4692043.538
- 10
-7516712.722000001
- 20
-4692032.468999999
-  0
-LWPOLYLINE
-  5
-E7
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516728.971
- 20
-4692023.856999999
- 10
-7516712.722000001
- 20
-4692032.468999999
-  0
-LWPOLYLINE
-  5
-E8
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516688.39
- 20
-4692007.298
- 10
-7516712.722000001
- 20
-4692032.468999999
-  0
-LWPOLYLINE
-  5
-E9
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516728.971
- 20
-4692023.856999999
- 10
-7516731.971
- 20
-4692022.593999999
-  0
-LWPOLYLINE
-  5
-EA
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516746.970999999
- 20
-4692016.281
- 10
-7516761.971000001
- 20
-4692009.968
-  0
-LWPOLYLINE
-  5
-EB
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516761.971000001
- 20
-4692009.968
- 10
-7516780.963000001
- 20
-4692001.975
-  0
-LWPOLYLINE
-  5
-EC
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516731.971
- 20
-4692022.593999999
- 10
-7516717.684999999
- 20
-4692008.629
-  0
-LWPOLYLINE
-  5
-ED
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516717.684999999
- 20
-4692008.629
- 10
-7516732.642
- 20
-4692002.274
-  0
-LWPOLYLINE
-  5
-EE
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516732.642
- 20
-4692002.274
- 10
-7516747.693
- 20
-4691996.009999999
-  0
-LWPOLYLINE
-  5
-EF
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516747.693
- 20
-4691996.009999999
- 10
-7516761.971000001
- 20
-4692009.968
-  0
-LWPOLYLINE
-  5
-F0
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516746.970999999
- 20
-4692016.281
- 10
-7516732.642
- 20
-4692002.274
-  0
-LWPOLYLINE
-  5
-F1
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516491.656
- 20
-4692032.326999999
- 10
-7516512.997000001
- 20
-4692055.714
-  0
-LWPOLYLINE
-  5
-F2
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516478.542999999
- 20
-4692017.954999999
- 10
-7516491.656
- 20
-4692032.326999999
-  0
-LWPOLYLINE
-  5
-F3
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7517031.92
- 20
-4692004.49
- 10
-7517016.24
- 20
-4692019.14
-  0
-LWPOLYLINE
-  5
-F4
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7517016.24
- 20
-4692019.14
- 10
-7516997.97
- 20
-4692035.52
-  0
-LWPOLYLINE
-  5
-F5
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516780.963000001
- 20
-4692001.975
- 10
-7516793.419999999
- 20
-4691996.81
-  0
-LWPOLYLINE
-  5
-F6
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516793.419999999
- 20
-4691996.81
- 10
-7516822.48
- 20
-4691984.768
-  0
-LWPOLYLINE
-  5
-F7
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516806.44
- 20
-4691987.929999999
- 10
-7516805.12
- 20
-4691990.41
-  0
-LWPOLYLINE
-  5
-F8
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516805.12
- 20
-4691990.41
- 10
-7516803.7
- 20
-4691991.19
-  0
-LWPOLYLINE
-  5
-F9
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516803.7
- 20
-4691991.19
- 10
-7516793.419999999
- 20
-4691996.81
-  0
-LWPOLYLINE
-  5
-FA
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516731.971
- 20
-4692022.593999999
- 10
-7516744.32
- 20
-4692017.400000001
-  0
-LWPOLYLINE
-  5
-FB
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516744.32
- 20
-4692017.400000001
- 10
-7516746.970999999
- 20
-4692016.281
-  0
-LWPOLYLINE
-  5
-FC
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516737.516
- 20
-4692025.848
- 10
-7516746.230000001
- 20
-4692021.94
-  0
-LWPOLYLINE
-  5
-FD
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516744.32
- 20
-4692017.400000001
- 10
-7516746.230000001
- 20
-4692021.94
-  0
-LWPOLYLINE
-  5
-FE
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516746.230000001
- 20
-4692021.94
- 10
-7516776.2
- 20
-4692008.519999999
-  0
-LWPOLYLINE
-  5
-FF
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516776.2
- 20
-4692008.519999999
- 10
-7516782.222
- 20
-4692005.826
-  0
-LWPOLYLINE
-  5
-100
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516776.2
- 20
-4692008.519999999
- 10
-7516778.6
- 20
-4692015.36
-  0
-LWPOLYLINE
-  5
-101
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516926.820000001
- 20
-4692053.06
- 10
-7516808.24
- 20
-4692022.77
-  0
-LWPOLYLINE
-  5
-102
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516808.24
- 20
-4692022.77
- 10
-7516778.6
- 20
-4692015.36
-  0
-LWPOLYLINE
-  5
-103
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516719.91
- 20
-4692095.92
- 10
-7516726.599999999
- 20
-4692097.58
-  0
-LWPOLYLINE
-  5
-104
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516726.599999999
- 20
-4692097.58
- 10
-7516763.05
- 20
-4692105.91
-  0
-LWPOLYLINE
-  5
-105
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516808.24
- 20
-4692022.77
- 10
-7516802.17
- 20
-4692034.730000001
-  0
-LWPOLYLINE
-  5
-106
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516802.17
- 20
-4692034.730000001
- 10
-7516770.78
- 20
-4692081.51
-  0
-LWPOLYLINE
-  5
-107
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516770.78
- 20
-4692081.51
- 10
-7516767.879999999
- 20
-4692093.41
-  0
-LWPOLYLINE
-  5
-108
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516767.879999999
- 20
-4692093.41
- 10
-7516741.940000001
- 20
-4692089.95
-  0
-LWPOLYLINE
-  5
-109
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516741.940000001
- 20
-4692089.95
- 10
-7516727.64
- 20
-4692089.95
-  0
-LWPOLYLINE
-  5
-10A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516727.64
- 20
-4692089.95
- 10
-7516726.599999999
- 20
-4692097.58
-  0
-LWPOLYLINE
-  5
-10B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516719.07
- 20
-4692106.459999999
- 10
-7516719.91
- 20
-4692095.92
-  0
-LWPOLYLINE
-  5
-10C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516717.139999999
- 20
-4692130.480000001
- 10
-7516718.54
- 20
-4692113.07
-  0
-LWPOLYLINE
-  5
-10D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516718.54
- 20
-4692113.07
- 10
-7516719.07
- 20
-4692106.459999999
-  0
-LWPOLYLINE
-  5
-10E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516763.05
- 20
-4692105.91
- 10
-7516760.349999999
- 20
-4692138.04
-  0
-LWPOLYLINE
-  5
-10F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516938.969999999
- 20
-4692018.24
- 10
-7516938.74
- 20
-4692000.83
-  0
-LWPOLYLINE
-  5
-110
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516938.74
- 20
-4692000.83
- 10
-7516938.73
- 20
-4691999.786000001
-  0
-LWPOLYLINE
-  5
-111
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7517016.24
- 20
-4692019.14
- 10
-7517006.67
- 20
-4692012.7
-  0
-LWPOLYLINE
-  5
-112
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7517006.67
- 20
-4692012.7
- 10
-7516992.67
- 20
-4692003.77
-  0
-LWPOLYLINE
-  5
-113
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516992.67
- 20
-4692003.77
- 10
-7516973.41
- 20
-4691998.86
-  0
-LWPOLYLINE
-  5
-114
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516973.41
- 20
-4691998.86
- 10
-7516956.94
- 20
-4691998.95
-  0
-LWPOLYLINE
-  5
-115
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516956.94
- 20
-4691998.95
- 10
-7516938.74
- 20
-4692000.83
-  0
-LWPOLYLINE
-  5
-116
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516925.089999999
- 20
-4692000.377999999
- 10
-7516925.25
- 20
-4692005.13
-  0
-LWPOLYLINE
-  5
-117
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516925.25
- 20
-4692005.13
- 10
-7516925.549999999
- 20
-4692014.620000001
-  0
-LWPOLYLINE
-  5
-118
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516938.74
- 20
-4692000.83
- 10
-7516925.25
- 20
-4692005.13
-  0
-LWPOLYLINE
-  5
-119
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516925.25
- 20
-4692005.13
- 10
-7516914.64
- 20
-4692008.27
-  0
-LWPOLYLINE
-  5
-11A
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516914.64
- 20
-4692008.27
- 10
-7516906.34
- 20
-4692004.0
-  0
-LWPOLYLINE
-  5
-11B
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516511.618
- 20
-4692105.230000001
- 10
-7516512.309999999
- 20
-4692078.15
-  0
-LWPOLYLINE
-  5
-11C
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516511.55
- 20
-4692107.9
- 10
-7516511.618
- 20
-4692105.230000001
-  0
-LWPOLYLINE
-  5
-11D
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516620.698
- 20
-4692134.7
- 10
-7516618.128
- 20
-4692106.655
-  0
-LWPOLYLINE
-  5
-11E
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516618.128
- 20
-4692106.655
- 10
-7516616.031
- 20
-4692083.775
-  0
-LWPOLYLINE
-  5
-11F
-330
-2
-100
-AcDbEntity
-  8
-Parc-Kojshi
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516618.128
- 20
-4692106.655
- 10
-7516511.618
- 20
-4692105.230000001
-  0
 TEXT
   5
-120
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516637.262
- 20
-4692359.547
- 30
-0.0
- 40
-1.0
-  1
-00699-22
-100
-AcDbText
-  0
-TEXT
-  5
-123
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516752.990000001
- 20
-4692262.295999999
- 30
-0.0
- 40
-2.0
-  1
-00699-25
-100
-AcDbText
-  0
-TEXT
-  5
-125
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516787.000798874
- 20
-4692313.833934618
- 30
-0.0
- 40
-1.0
-  1
-00700-42
-100
-AcDbText
-  0
-TEXT
-  5
-126
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516809.931348615
- 20
-4692300.816047559
- 30
-0.0
- 40
-1.0
-  1
-00700-53
-100
-AcDbText
-  0
-TEXT
-  5
-127
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516811.449422569
- 20
-4692333.614650137
- 30
-0.0
- 40
-1.0
-  1
-00700-54
-100
-AcDbText
-  0
-TEXT
-  5
-128
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516831.541749723
- 20
-4692319.679594157
- 30
-0.0
- 40
-1.0
-  1
-00700-55
-100
-AcDbText
-  0
-TEXT
-  5
-129
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516655.313
- 20
-4692388.898
- 30
-0.0
- 40
-1.0
-  1
-00700-37
-100
-AcDbText
-  0
-TEXT
-  5
-12A
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516725.088666598
- 20
-4692460.432000001
- 30
-0.0
- 40
-1.0
-  1
-00311-2
-100
-AcDbText
-  0
-TEXT
-  5
-12B
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516759.502000001
- 20
-4692327.928
- 30
-0.0
- 40
-1.0
-  1
-00700-8
-100
-AcDbText
-  0
-TEXT
-  5
-12C
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516749.188
- 20
-4692297.359
- 30
-0.0
- 40
-2.0
-  1
-00700-4028
-100
-AcDbText
-  0
-TEXT
-  5
-12D
+14
 330
 2
 100
@@ -17161,9 +9943,9 @@ AcDbText
 100
 AcDbText
   0
-TEXT
+MTEXT
   5
-12E
+17
 330
 2
 100
@@ -17171,1461 +9953,355 @@ AcDbEntity
   8
 Nr Parceles Baze
 100
-AcDbText
+AcDbMText
  10
-7516729.748850366
+7516721.624247885
  20
-4692289.695605015
+4692348.239130224
  30
 0.0
  40
 2.0
+ 41
+10.24965893570334
+ 71
+     1
+ 72
+     5
   1
-00700-40
-100
-AcDbText
-  0
-POINT
-  5
-12F
-330
-2
-100
-AcDbEntity
-  8
-BuildingBoundaryPoint
- 62
-     5
-100
-AcDbPoint
- 10
-7516814.897999999
- 20
-4692419.076
- 30
-0.0
-  0
-POINT
-  5
-131
-330
-2
-100
-AcDbEntity
-  8
-BuildingBoundaryPoint
- 62
-     5
-100
-AcDbPoint
- 10
-7516808.565000001
- 20
-4692417.335
- 30
-0.0
+6616 m²
+ 73
+     1
+ 44
+1.0
+1001
+ACAD
+1000
+MTEXTBEGIN
+1070
+    73
+1070
+     1
+1070
+    44
+1040
+1.0
+1070
+    74
+1070
+     0
+1000
+MTEXTEND
   0
 LWPOLYLINE
   5
-132
+18
 330
 2
 100
 AcDbEntity
   8
-BuildingBoundaryLine
- 62
-     5
+objket
 100
 AcDbPolyline
  90
         2
  70
-     0
+   128
  43
 0.0
+ 38
+625.4999999999999
  10
-7516810.841
+7516700.1
  20
-4692433.204
+4692342.951
  10
-7516814.897999999
+7516697.577999999
  20
-4692419.076
+4692352.161999999
   0
 LWPOLYLINE
   5
-134
+1A
 330
 2
 100
 AcDbEntity
   8
-BuildingBoundaryLine
- 62
-     5
+objket
 100
 AcDbPolyline
  90
         2
  70
-     0
+   128
  43
 0.0
+ 38
+628.481
  10
-7516814.897999999
+7516703.588
  20
-4692419.076
+4692353.822
  10
-7516808.565000001
+7516697.577999999
  20
-4692417.335
+4692352.161999999
   0
 LWPOLYLINE
   5
-135
+1B
 330
 2
 100
 AcDbEntity
   8
-BuildingBoundaryLine
- 62
-     5
+objket
 100
 AcDbPolyline
  90
         2
  70
-     0
+   128
  43
 0.0
+ 38
+628.481
  10
-7516808.565000001
+7516706.110000001
  20
-4692417.335
+4692344.611000001
  10
-7516804.505
+7516700.1
  20
-4692431.461
-  0
-TEXT
-  5
-136
-330
-2
-100
-AcDbEntity
-  8
-BuildingReferencePoint
-100
-AcDbText
- 10
-7516809.702113877
- 20
-4692425.269626876
- 30
-0.0
- 40
-1.0
-  1
-O-72217006-1-0
-100
-AcDbText
-  0
-TEXT
-  5
-138
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516856.89
- 20
-4692416.743999999
- 30
-0.0
- 40
-1.0
-  1
-00700-27
-100
-AcDbText
-  0
-TEXT
-  5
-139
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516803.493930326
- 20
-4692447.008934037
- 30
-0.0
- 40
-1.0
-  1
-00700-57
-100
-AcDbText
-  0
-TEXT
-  5
-13A
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516825.528999965
- 20
-4692451.617333333
- 30
-0.0
- 40
-1.0
-  1
-00700-423
-100
-AcDbText
-  0
-TEXT
-  5
-13B
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516844.597
- 20
-4692434.479
- 30
-0.0
- 40
-1.0
-  1
-00700-29
-100
-AcDbText
-  0
-TEXT
-  5
-13C
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516833.027176884
- 20
-4692432.773244928
- 30
-0.0
- 40
-1.0
-  1
-00700-58
-100
-AcDbText
-  0
-POINT
-  5
-13D
-330
-2
-100
-AcDbEntity
-  8
-BuildingBoundaryPoint
- 62
-     5
-100
-AcDbPoint
- 10
-7516804.505
- 20
-4692431.461
- 30
-0.0
-  0
-POINT
-  5
-13E
-330
-2
-100
-AcDbEntity
-  8
-BuildingBoundaryPoint
- 62
-     5
-100
-AcDbPoint
- 10
-7516810.841
- 20
-4692433.204
- 30
-0.0
-  0
-POINT
-  5
-13F
-330
-2
-100
-AcDbEntity
-  8
-BuildingBoundaryPoint
- 62
-     5
-100
-AcDbPoint
- 10
-7516814.897999999
- 20
-4692419.076
- 30
-0.0
-  0
-POINT
-  5
-140
-330
-2
-100
-AcDbEntity
-  8
-BuildingBoundaryPoint
- 62
-     5
-100
-AcDbPoint
- 10
-7516808.565000001
- 20
-4692417.335
- 30
-0.0
+4692342.951
   0
 LWPOLYLINE
   5
-141
+1C
 330
 2
 100
 AcDbEntity
   8
-BuildingBoundaryLine
- 62
-     5
+objket
 100
 AcDbPolyline
  90
         2
  70
-     0
+   128
  43
 0.0
+ 38
+628.481
  10
-7516804.505
+7516706.110000001
  20
-4692431.461
+4692344.611000001
  10
-7516810.841
+7516703.588
  20
-4692433.204
+4692353.822
   0
 LWPOLYLINE
   5
-142
+1D
 330
 2
 100
 AcDbEntity
   8
-BuildingBoundaryLine
- 62
-     5
+muri
 100
 AcDbPolyline
  90
         2
  70
-     0
+   128
  43
 0.0
+ 38
+626.5039999999999
  10
-7516810.841
+7516736.502000001
  20
-4692433.204
+4692361.876
  10
-7516814.897999999
+7516726.717
  20
-4692419.076
+4692359.294
   0
 LWPOLYLINE
   5
-143
+1F
 330
 2
 100
 AcDbEntity
   8
-BuildingBoundaryLine
- 62
-     5
+muri
 100
 AcDbPolyline
  90
-        2
+        3
  70
-     0
+   128
  43
 0.0
+ 38
+626.451
  10
-7516814.897999999
+7516731.860368786
  20
-4692419.076
+4692382.835580834
  10
-7516808.565000001
+7516726.215
  20
-4692417.335
+4692381.175
+ 10
+7516702.27331434
+ 20
+4692374.216619955
   0
 LWPOLYLINE
   5
-144
+20
 330
 2
 100
 AcDbEntity
   8
-BuildingBoundaryLine
- 62
-     5
-100
-AcDbPolyline
- 90
-        2
- 70
-     0
- 43
-0.0
- 10
-7516808.565000001
- 20
-4692417.335
- 10
-7516804.505
- 20
-4692431.461
-  0
-TEXT
-  5
-145
-330
-2
-100
-AcDbEntity
-  8
-BuildingReferencePoint
-100
-AcDbText
- 10
-7516809.702113877
- 20
-4692425.269626876
- 30
-0.0
- 40
-1.0
-  1
-O-72217006-1-0
-100
-AcDbText
-  0
-TEXT
-  5
-146
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516488.809999999
- 20
-4692385.148
- 30
-0.0
- 40
-1.0
-  1
-00126-0
-100
-AcDbText
-  0
-TEXT
-  5
-147
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516879.409
- 20
-4692137.427
- 30
-0.0
- 40
-1.0
-  1
-00128-?
-100
-AcDbText
-  0
-TEXT
-  5
-148
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516870.064
- 20
-4692139.051
- 30
-0.0
- 40
-1.0
-  1
-00128-9
-100
-AcDbText
-  0
-TEXT
-  5
-149
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516856.754
- 20
-4692142.042
- 30
-0.0
- 40
-1.0
-  1
-00128-10
-100
-AcDbText
-  0
-TEXT
-  5
-14A
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516846.813
- 20
-4692146.114
- 30
-0.0
- 40
-1.0
-  1
-00128-11
-100
-AcDbText
-  0
-TEXT
-  5
-14B
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516590.770999999
- 20
-4692206.759
- 30
-0.0
- 40
-1.0
-  1
-00130-0
-100
-AcDbText
-  0
-TEXT
-  5
-14C
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516604.048
- 20
-4692162.437
- 30
-0.0
- 40
-1.0
-  1
-00133-0
-100
-AcDbText
-  0
-TEXT
-  5
-14D
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516586.314000001
- 20
-4691994.749
- 30
-0.0
- 40
-1.0
-  1
-00181-0
-100
-AcDbText
-  0
-TEXT
-  5
-14E
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516503.254
- 20
-4691997.682
- 30
-0.0
- 40
-1.0
-  1
-00175-0
-100
-AcDbText
-  0
-TEXT
-  5
-14F
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516582.767752552
- 20
-4692310.874754035
- 30
-0.0
- 40
-1.0
-  1
-00131-4
-100
-AcDbText
-  0
-TEXT
-  5
-150
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516539.143838922
- 20
-4692366.324376306
- 30
-0.0
- 40
-1.0
-  1
-00131-3
-100
-AcDbText
-  0
-TEXT
-  5
-151
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516961.788472192
- 20
-4692041.261372686
- 30
-0.0
- 40
-1.0
-  1
-00214-4
-100
-AcDbText
-  0
-TEXT
-  5
-152
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516933.339897704
- 20
-4692073.782845294
- 30
-0.0
- 40
-1.0
-  1
-00631-3
-100
-AcDbText
-  0
-TEXT
-  5
-153
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516932.694770156
- 20
-4692035.362235695
- 30
-0.0
- 40
-1.0
-  1
-00631-4
-100
-AcDbText
-  0
-TEXT
-  5
-154
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516747.314790639
- 20
-4692006.135048689
- 30
-0.0
- 40
-1.0
-  1
-00190-3
-100
-AcDbText
-  0
-TEXT
-  5
-155
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516948.776000023
- 20
-4692069.741333325
- 30
-0.0
- 40
-1.0
-  1
-00214-8
-100
-AcDbText
-  0
-TEXT
-  5
-156
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516522.823
- 20
-4692044.885
- 30
-0.0
- 40
-1.0
-  1
-00174-0
-100
-AcDbText
-  0
-TEXT
-  5
-157
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516489.45251898
- 20
-4692045.982093016
- 30
-0.0
- 40
-1.0
-  1
-00680-23
-100
-AcDbText
-  0
-TEXT
-  5
-158
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516523.621000001
- 20
-4692257.683
- 30
-0.0
- 40
-1.0
-  1
-00132-1
-100
-AcDbText
-  0
-TEXT
-  5
-159
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516512.371196837
- 20
-4692295.23664246
- 30
-0.0
- 40
-1.0
-  1
-00131-6
-100
-AcDbText
-  0
-TEXT
-  5
-15A
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516866.353428493
- 20
-4692020.543807639
- 30
-0.0
- 40
-1.0
-  1
-00128-2
-100
-AcDbText
-  0
-TEXT
-  5
-15B
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516732.321001316
- 20
-4692012.442916459
- 30
-0.0
- 40
-1.0
-  1
-00190-2
-100
-AcDbText
-  0
-TEXT
-  5
-15C
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516826.063897351
- 20
-4692113.252236406
- 30
-0.0
- 40
-1.0
-  1
-00128-103
-100
-AcDbText
-  0
-TEXT
-  5
-15D
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516975.643047572
- 20
-4692014.921524068
- 30
-0.0
- 40
-1.0
-  1
-00214-13
-100
-AcDbText
-  0
-TEXT
-  5
-15E
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516980.116460605
- 20
-4691996.402084575
- 30
-0.0
- 40
-1.0
-  1
-00214-14
-100
-AcDbText
-  0
-TEXT
-  5
-15F
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516932.787457959
- 20
-4692009.668022802
- 30
-0.0
- 40
-1.0
-  1
-00631-13
-100
-AcDbText
-  0
-TEXT
-  5
-160
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516932.541273746
- 20
-4691988.453674376
- 30
-0.0
- 40
-1.0
-  1
-00631-14
-100
-AcDbText
-  0
-TEXT
-  5
-161
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516865.061121722
- 20
-4691989.938107874
- 30
-0.0
- 40
-1.0
-  1
-00128-107
-100
-AcDbText
-  0
-TEXT
-  5
-162
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516820.837548277
- 20
-4691987.720062918
- 30
-0.0
- 40
-1.0
-  1
-00129-3
-100
-AcDbText
-  0
-TEXT
-  5
-163
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516720.818304123
- 20
-4692031.244354139
- 30
-0.0
- 40
-1.0
-  1
-00129-1
-100
-AcDbText
-  0
-TEXT
-  5
-164
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516485.678
- 20
-4692129.516
- 30
-0.0
- 40
-1.0
-  1
-00134-2
-100
-AcDbText
-  0
-TEXT
-  5
-165
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516674.001244349
- 20
-4692170.394926981
- 30
-0.0
- 40
-1.0
-  1
-00128-104
-100
-AcDbText
-  0
-TEXT
-  5
-166
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516557.403050507
- 20
-4692144.525846919
- 30
-0.0
- 40
-1.0
-  1
-00134-4
-100
-AcDbText
-  0
-TEXT
-  5
-167
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516564.077952684
- 20
-4692086.800409499
- 30
-0.0
- 40
-1.0
-  1
-00134-5
-100
-AcDbText
-  0
-TEXT
-  5
-168
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516731.975732807
- 20
-4692201.623158795
- 30
-0.0
- 40
-2.0
-  1
-00128-18
-100
-AcDbText
-  0
-TEXT
-  5
-169
-330
-2
-100
-AcDbEntity
-  8
-Nr-Kojshi
-100
-AcDbText
- 10
-7516739.849117901
- 20
-4692117.785526945
- 30
-0.0
- 40
-1.0
-  1
-00128-19
-100
-AcDbText
-  0
-LWPOLYLINE
-  5
-16A
-330
-2
-100
-AcDbEntity
-  8
-Parcela Baze
+muri
 100
 AcDbPolyline
  90
         4
  70
-   129
+   128
  43
 0.0
+ 38
+626.013
  10
-7516754.672000001
+7516688.162
  20
-4692276.664
+4692385.487
  10
-7516748.452999999
+7516692.838000001
  20
-4692281.994
+4692368.980999999
  10
-7516751.06
+7516694.953
  20
-4692248.59
+4692361.797
  10
-7516757.7
+7516696.920000001
  20
-4692242.649
+4692353.097
   0
 LWPOLYLINE
   5
-16C
+21
 330
 2
 100
 AcDbEntity
   8
-Parcela Baze
+muri
 100
 AcDbPolyline
  90
-        8
+        2
  70
-   129
+   128
  43
 0.0
+ 38
+626.013
  10
-7516748.452999999
+7516688.162
  20
-4692281.994
+4692385.487
  10
-7516744.44
+7516681.749
  20
-4692333.419999999
- 10
-7516742.579999999
- 20
-4692340.74
- 10
-7516742.119999999
- 20
-4692328.759999999
- 10
-7516744.84
- 20
-4692311.44
- 10
-7516728.88
- 20
-4692300.6
- 10
-7516735.21
- 20
-4692261.76
- 10
-7516751.06
- 20
-4692248.59
+4692408.701
   0
 LWPOLYLINE
   5
-16D
+22
 330
 2
 100
 AcDbEntity
   8
-Parcela Baze
+muri
+100
+AcDbPolyline
+ 90
+        2
+ 70
+   128
+ 43
+0.0
+ 38
+626.0259999999999
+ 10
+7516702.894000001
+ 20
+4692371.953
+ 10
+7516692.673999999
+ 20
+4692409.225
+  0
+LWPOLYLINE
+  5
+23
+330
+2
+100
+AcDbEntity
+  8
+Ndarjet
+100
+AcDbPolyline
+ 90
+        4
+ 70
+   128
+ 43
+0.0
+ 38
+626.2
+ 10
+7516687.174943105
+ 20
+4692430.941092947
+ 10
+7516693.609
+ 20
+4692409.403
+ 10
+7516703.137505909
+ 20
+4692374.468366317
+ 10
+7516731.860368786
+ 20
+4692382.835580834
+  0
+LWPOLYLINE
+  5
+25
+330
+2
+100
+AcDbEntity
+  8
+streha
 100
 AcDbPolyline
  90
@@ -18635,33 +10311,463 @@ AcDbPolyline
  43
 0.0
  10
-7516751.06
+7516692.209947559
  20
-4692248.59
+4692411.591801431
  10
-7516735.21
+7516686.747999999
  20
-4692261.76
+4692409.959999999
  10
-7516704.59
+7516686.141857474
  20
-4692287.19
+4692412.094348354
  10
-7516717.139999999
+7516681.468
  20
-4692130.480000001
+4692410.767
  10
-7516739.530000001
+7516677.951133447
  20
-4692135.32
+4692422.626953022
  10
-7516760.349999999
+7516688.021
  20
-4692138.04
+4692425.613
   0
 LWPOLYLINE
   5
-16E
+27
+330
+2
+100
+AcDbEntity
+  8
+muri
+100
+AcDbPolyline
+ 90
+        2
+ 70
+   128
+ 43
+0.0
+ 38
+625.659
+ 10
+7516706.159583431
+ 20
+4692344.515580436
+ 10
+7516739.241481115
+ 20
+4692353.850641871
+  0
+LWPOLYLINE
+  5
+28
+330
+2
+100
+AcDbEntity
+  8
+Ndarjet
+100
+AcDbPolyline
+ 90
+        2
+ 70
+   128
+ 43
+0.0
+ 10
+7516706.079646724
+ 20
+4692433.955741367
+ 10
+7516719.78173502
+ 20
+4692430.036409823
+  0
+TEXT
+  5
+29
+330
+2
+100
+AcDbEntity
+  8
+Nr Parceles Baze
+ 62
+     1
+100
+AcDbText
+ 10
+7516703.71688372
+ 20
+4692396.590620858
+ 30
+0.0
+ 40
+2.0
+  1
+1690 m²
+100
+AcDbText
+  0
+LWPOLYLINE
+  5
+2A
+330
+2
+100
+AcDbEntity
+  8
+Ndarjet
+100
+AcDbPolyline
+ 90
+       13
+ 70
+   128
+ 43
+0.0
+ 10
+7516676.160763105
+ 20
+4692429.203592237
+ 10
+7516677.913665148
+ 20
+4692422.496180746
+ 10
+7516680.661144176
+ 20
+4692412.584780189
+ 10
+7516681.749
+ 20
+4692408.701
+ 10
+7516688.162
+ 20
+4692385.487
+ 10
+7516692.838000001
+ 20
+4692368.980999999
+ 10
+7516694.953
+ 20
+4692361.797
+ 10
+7516696.920000001
+ 20
+4692353.097
+ 10
+7516699.873
+ 20
+4692342.483
+ 10
+7516704.09810182
+ 20
+4692327.177662318
+ 10
+7516708.274306883
+ 20
+4692287.523889129
+ 10
+7516708.606297052
+ 20
+4692283.153949954
+ 10
+7516712.608854355
+ 20
+4692233.174606919
+  0
+LWPOLYLINE
+  5
+2B
+330
+2
+100
+AcDbEntity
+  8
+kati 0
+100
+AcDbPolyline
+ 90
+        7
+ 70
+   128
+ 43
+0.0
+ 10
+7516685.967275932
+ 20
+4692413.18408275
+ 10
+7516681.372
+ 20
+4692411.805999999
+ 10
+7516677.137
+ 20
+4692426.037999999
+ 10
+7516687.105
+ 20
+4692428.011
+ 10
+7516692.052
+ 20
+4692411.517
+ 10
+7516686.914
+ 20
+4692410.037
+ 10
+7516685.967275861
+ 20
+4692413.184082987
+  0
+LWPOLYLINE
+  5
+2D
+330
+2
+100
+AcDbEntity
+  8
+kati 1
+100
+AcDbPolyline
+ 90
+        6
+ 70
+   129
+ 43
+0.0
+ 10
+7516685.967275932
+ 20
+4692413.18408275
+ 10
+7516686.914
+ 20
+4692410.037
+ 10
+7516692.052
+ 20
+4692411.517
+ 10
+7516688.340385842
+ 20
+4692423.892048299
+ 10
+7516678.655046495
+ 20
+4692420.936503491
+ 10
+7516681.372
+ 20
+4692411.805999999
+  0
+LWPOLYLINE
+  5
+2F
+330
+2
+100
+AcDbEntity
+  8
+kati 1 terasat
+100
+AcDbPolyline
+ 90
+        4
+ 70
+   128
+ 43
+0.0
+ 10
+7516688.340385842
+ 20
+4692423.892048299
+ 10
+7516686.94123667
+ 20
+4692428.557010185
+ 10
+7516676.970074741
+ 20
+4692426.598963467
+ 10
+7516678.655046495
+ 20
+4692420.936503491
+  0
+LWPOLYLINE
+  5
+32
+330
+2
+100
+AcDbEntity
+  8
+kati 3 terasa
+100
+AcDbPolyline
+ 90
+        2
+ 70
+   128
+ 43
+0.0
+ 10
+7516686.62865338
+ 20
+4692410.985543987
+ 10
+7516686.914
+ 20
+4692410.037
+  0
+LWPOLYLINE
+  5
+34
+330
+2
+100
+AcDbEntity
+  8
+kati 3 terasa
+100
+AcDbPolyline
+ 90
+        2
+ 70
+   128
+ 43
+0.0
+ 10
+7516686.914
+ 20
+4692410.037
+ 10
+7516692.052
+ 20
+4692411.517
+  0
+LWPOLYLINE
+  5
+35
+330
+2
+100
+AcDbEntity
+  8
+kati 3 terasa
+100
+AcDbPolyline
+ 90
+        2
+ 70
+   128
+ 43
+0.0
+ 10
+7516692.052
+ 20
+4692411.517
+ 10
+7516691.767438025
+ 20
+4692412.465770003
+  0
+LWPOLYLINE
+  5
+36
+330
+2
+100
+AcDbEntity
+  8
+kati 3
+100
+AcDbPolyline
+ 90
+        7
+ 70
+   128
+ 43
+0.0
+ 10
+7516691.767438025
+ 20
+4692412.465770003
+ 10
+7516688.340385842
+ 20
+4692423.892048299
+ 10
+7516678.655046495
+ 20
+4692420.936503491
+ 10
+7516681.372
+ 20
+4692411.805999999
+ 10
+7516685.967275932
+ 20
+4692413.18408275
+ 10
+7516686.62865338
+ 20
+4692410.985543987
+ 10
+7516691.767438025
+ 20
+4692412.465770003
+  0
+LWPOLYLINE
+  5
+38
+330
+2
+100
+AcDbEntity
+  8
+kati 3 terasa
+100
+AcDbPolyline
+ 90
+        4
+ 70
+   128
+ 43
+0.0
+ 10
+7516688.340385842
+ 20
+4692423.892048299
+ 10
+7516687.841196421
+ 20
+4692425.556416663
+ 10
+7516678.159455541
+ 20
+4692422.601969949
+ 10
+7516678.655046495
+ 20
+4692420.936503491
+  0
+LWPOLYLINE
+  5
+39
 330
 2
 100
@@ -18733,1532 +10839,6 @@ AcDbPolyline
  20
 4692382.209999999
   0
-MTEXT
-  5
-16F
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbMText
- 10
-7516748.680451648
- 20
-4692295.707601466
- 30
-0.0
- 40
-2.0
- 41
-8.69577080477029
- 71
-     1
- 72
-     5
-  1
-149 m²
- 73
-     1
- 44
-1.0
-1001
-ACAD
-1000
-MTEXTBEGIN
-1070
-    73
-1070
-     1
-1070
-    44
-1040
-1.0
-1070
-    74
-1070
-     0
-1000
-MTEXTEND
-  0
-MTEXT
-  5
-170
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbMText
- 10
-7516740.368357353
- 20
-4692299.705550317
- 30
-0.0
- 40
-2.0
- 41
-8.69577080477029
- 71
-     1
- 72
-     5
-  1
-896 m²
- 73
-     1
- 44
-1.0
-1001
-ACAD
-1000
-MTEXTBEGIN
-1070
-    73
-1070
-     1
-1070
-    44
-1040
-1.0
-1070
-    74
-1070
-     0
-1000
-MTEXTEND
-  0
-MTEXT
-  5
-171
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbMText
- 10
-7516751.974346552
- 20
-4692257.176827669
- 30
-0.0
- 40
-2.0
- 41
-8.69577080477029
- 71
-     1
- 72
-     5
-  1
-201 m²
- 73
-     1
- 44
-1.0
-1001
-ACAD
-1000
-MTEXTBEGIN
-1070
-    73
-1070
-     1
-1070
-    44
-1040
-1.0
-1070
-    74
-1070
-     0
-1000
-MTEXTEND
-  0
-MTEXT
-  5
-172
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbMText
- 10
-7516721.624247885
- 20
-4692348.239130224
- 30
-0.0
- 40
-2.0
- 41
-10.24965893570334
- 71
-     1
- 72
-     5
-  1
-6616 m²
- 73
-     1
- 44
-1.0
-1001
-ACAD
-1000
-MTEXTBEGIN
-1070
-    73
-1070
-     1
-1070
-    44
-1040
-1.0
-1070
-    74
-1070
-     0
-1000
-MTEXTEND
-  0
-MTEXT
-  5
-173
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbMText
- 10
-7516733.896989124
- 20
-4692199.359635214
- 30
-0.0
- 40
-2.0
- 41
-10.24965893570334
- 71
-     1
- 72
-     5
-  1
-5803 m²
- 73
-     1
- 44
-1.0
-1001
-ACAD
-1000
-MTEXTBEGIN
-1070
-    73
-1070
-     1
-1070
-    44
-1040
-1.0
-1070
-    74
-1070
-     0
-1000
-MTEXTEND
-  0
-TEXT
-  5
-174
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     1
-100
-AcDbText
- 10
-7516624.238539979
- 20
-4692296.961962016
- 30
-0.0
- 40
-4.0
-  1
-Vendim i ndrrimit:
-100
-AcDbText
-  0
-TEXT
-  5
-175
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     1
-100
-AcDbText
- 10
-7516624.238539979
- 20
-4692291.869393105
- 30
-0.0
- 40
-4.0
-  1
-15102 m²
-100
-AcDbText
-  0
-TEXT
-  5
-176
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     3
-100
-AcDbText
- 10
-7516624.238539979
- 20
-4692264.375940791
- 30
-0.0
- 40
-4.0
-  1
-Diferenca:
-100
-AcDbText
-  0
-TEXT
-  5
-177
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     3
-100
-AcDbText
- 10
-7516624.238539979
- 20
-4692259.283371878
- 30
-0.0
- 40
-4.0
-  1
--306 m²
-100
-AcDbText
-  0
-TEXT
-  5
-178
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     1
-100
-AcDbText
- 10
-7516645.538187622
- 20
-4692211.966767246
- 30
-0.0
- 40
-4.0
-  1
-Vendim i ndrrimit 128-1:
-100
-AcDbText
-  0
-TEXT
-  5
-179
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     1
-100
-AcDbText
- 10
-7516645.538187622
- 20
-4692206.874198334
- 30
-0.0
- 40
-4.0
-  1
-7360 m²
-100
-AcDbText
-  0
-TEXT
-  5
-17A
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     3
-100
-AcDbText
- 10
-7516645.13163919
- 20
-4692189.20778543
- 30
-0.0
- 40
-4.0
-  1
-Diferenca:
-100
-AcDbText
-  0
-TEXT
-  5
-17B
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     3
-100
-AcDbText
- 10
-7516645.399033461
- 20
-4692184.115216519
- 30
-0.0
- 40
-4.0
-  1
--76 m²
-100
-AcDbText
-  0
-TEXT
-  5
-17C
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     1
-100
-AcDbText
- 10
-7516622.968582639
- 20
-4692343.833658538
- 30
-0.0
- 40
-4.0
-  1
-Vendim i ndrrimit 700-1:
-100
-AcDbText
-  0
-TEXT
-  5
-17D
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     1
-100
-AcDbText
- 10
-7516622.968582639
- 20
-4692338.741089627
- 30
-0.0
- 40
-4.0
-  1
-7360 m²
-100
-AcDbText
-  0
-TEXT
-  5
-17E
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     3
-100
-AcDbText
- 10
-7516622.562034208
- 20
-4692321.074676723
- 30
-0.0
- 40
-4.0
-  1
-Diferenca:
-100
-AcDbText
-  0
-TEXT
-  5
-17F
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     3
-100
-AcDbText
- 10
-7516622.829428477
- 20
-4692315.982107811
- 30
-0.0
- 40
-4.0
-  1
--152 m²
-100
-AcDbText
-  0
-LWPOLYLINE
-  5
-180
-330
-2
-100
-AcDbEntity
-  8
-rrethoja
-100
-AcDbPolyline
- 90
-       15
- 70
-   128
- 43
-0.0
- 38
-620.7889999999999
- 10
-7516724.174
- 20
-4692106.973
- 10
-7516728.456
- 20
-4692114.285
- 10
-7516730.929
- 20
-4692117.541
- 10
-7516733.632
- 20
-4692120.438999999
- 10
-7516736.915
- 20
-4692122.549
- 10
-7516740.733
- 20
-4692123.767
- 10
-7516756.647
- 20
-4692125.674999999
- 10
-7516767.971
- 20
-4692126.841
- 10
-7516768.150999999
- 20
-4692142.469
- 10
-7516768.818
- 20
-4692182.389
- 10
-7516768.818000001
- 20
-4692186.471999999
- 10
-7516761.887
- 20
-4692229.940999999
- 10
-7516760.533
- 20
-4692240.581
- 10
-7516755.953
- 20
-4692277.24
- 10
-7516751.874
- 20
-4692289.891999999
-  0
-LWPOLYLINE
-  5
-182
-330
-2
-100
-AcDbEntity
-  8
-objket
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-625.4999999999999
- 10
-7516700.1
- 20
-4692342.951
- 10
-7516697.577999999
- 20
-4692352.161999999
-  0
-LWPOLYLINE
-  5
-184
-330
-2
-100
-AcDbEntity
-  8
-objket
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-628.481
- 10
-7516703.588
- 20
-4692353.822
- 10
-7516697.577999999
- 20
-4692352.161999999
-  0
-LWPOLYLINE
-  5
-185
-330
-2
-100
-AcDbEntity
-  8
-objket
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-628.481
- 10
-7516706.110000001
- 20
-4692344.611000001
- 10
-7516700.1
- 20
-4692342.951
-  0
-LWPOLYLINE
-  5
-186
-330
-2
-100
-AcDbEntity
-  8
-objket
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-628.481
- 10
-7516706.110000001
- 20
-4692344.611000001
- 10
-7516703.588
- 20
-4692353.822
-  0
-LWPOLYLINE
-  5
-187
-330
-2
-100
-AcDbEntity
-  8
-muri
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-626.5039999999999
- 10
-7516736.502000001
- 20
-4692361.876
- 10
-7516726.717
- 20
-4692359.294
-  0
-LWPOLYLINE
-  5
-189
-330
-2
-100
-AcDbEntity
-  8
-muri
-100
-AcDbPolyline
- 90
-        3
- 70
-   128
- 43
-0.0
- 38
-626.451
- 10
-7516731.860368786
- 20
-4692382.835580834
- 10
-7516726.215
- 20
-4692381.175
- 10
-7516702.27331434
- 20
-4692374.216619955
-  0
-LWPOLYLINE
-  5
-18A
-330
-2
-100
-AcDbEntity
-  8
-muri
-100
-AcDbPolyline
- 90
-        4
- 70
-   128
- 43
-0.0
- 38
-626.013
- 10
-7516688.162
- 20
-4692385.487
- 10
-7516692.838000001
- 20
-4692368.980999999
- 10
-7516694.953
- 20
-4692361.797
- 10
-7516696.920000001
- 20
-4692353.097
-  0
-LWPOLYLINE
-  5
-18B
-330
-2
-100
-AcDbEntity
-  8
-muri
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-626.013
- 10
-7516688.162
- 20
-4692385.487
- 10
-7516681.749
- 20
-4692408.701
-  0
-LWPOLYLINE
-  5
-18C
-330
-2
-100
-AcDbEntity
-  8
-Ndarjet
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-620.7889999999999
- 10
-7516751.874
- 20
-4692289.891999999
- 10
-7516708.606297052
- 20
-4692283.153949954
-  0
-LWPOLYLINE
-  5
-18E
-330
-2
-100
-AcDbEntity
-  8
-Ndarjet
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-620.7889999999999
- 10
-7516760.525912136
- 20
-4692240.636697841
- 10
-7516708.961271961
- 20
-4692232.606571386
-  0
-LWPOLYLINE
-  5
-18F
-330
-2
-100
-AcDbEntity
-  8
-muri
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-626.0259999999999
- 10
-7516702.894000001
- 20
-4692371.953
- 10
-7516692.673999999
- 20
-4692409.225
-  0
-LWPOLYLINE
-  5
-190
-330
-2
-100
-AcDbEntity
-  8
-Ndarjet
-100
-AcDbPolyline
- 90
-        4
- 70
-   128
- 43
-0.0
- 38
-626.2
- 10
-7516687.174943105
- 20
-4692430.941092947
- 10
-7516693.609
- 20
-4692409.403
- 10
-7516703.137505909
- 20
-4692374.468366317
- 10
-7516731.860368786
- 20
-4692382.835580834
-  0
-LWPOLYLINE
-  5
-191
-330
-2
-100
-AcDbEntity
-  8
-streha
-100
-AcDbPolyline
- 90
-        4
- 70
-   128
- 43
-0.0
- 38
-633.75
- 10
-7516692.182999999
- 20
-4692411.682
- 10
-7516686.747999999
- 20
-4692409.959999999
- 10
-7516686.285
- 20
-4692412.135
- 10
-7516681.468
- 20
-4692410.767
-  0
-LWPOLYLINE
-  5
-193
-330
-2
-100
-AcDbEntity
-  8
-streha
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-633.6059999999999
- 10
-7516681.468
- 20
-4692410.767
- 10
-7516677.987
- 20
-4692422.506
-  0
-LWPOLYLINE
-  5
-194
-330
-2
-100
-AcDbEntity
-  8
-streha
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-633.75
- 10
-7516692.182999999
- 20
-4692411.682
- 10
-7516688.021
- 20
-4692425.613
-  0
-LWPOLYLINE
-  5
-195
-330
-2
-100
-AcDbEntity
-  8
-kati 1 terasat
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-629.5139999999999
- 10
-7516677.011
- 20
-4692426.606999999
- 10
-7516686.931
- 20
-4692428.555
-  0
-LWPOLYLINE
-  5
-198
-330
-2
-100
-AcDbEntity
-  8
-kati 1 terasat
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-629.5139999999999
- 10
-7516677.011
- 20
-4692426.606999999
- 10
-7516677.987
- 20
-4692422.506
-  0
-LWPOLYLINE
-  5
-199
-330
-2
-100
-AcDbEntity
-  8
-kati 1 terasat
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-633.738
- 10
-7516688.021
- 20
-4692425.613
- 10
-7516686.931
- 20
-4692428.555
-  0
-LWPOLYLINE
-  5
-19A
-330
-2
-100
-AcDbEntity
-  8
-muri
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 38
-625.659
- 10
-7516706.159583431
- 20
-4692344.515580436
- 10
-7516739.241481115
- 20
-4692353.850641871
-  0
-TEXT
-  5
-19B
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516711.360758081
- 20
-4692269.984180139
- 30
-0.0
- 40
-2.0
-  1
-1655 m²
-100
-AcDbText
-  0
-TEXT
-  5
-19C
-330
-2
-100
-AcDbEntity
-  8
-propozim
-100
-AcDbText
- 10
-7516711.360758081
- 20
-4692266.13436316
- 30
-0.0
- 40
-2.0
-  1
-2170 m²
-100
-AcDbText
-  0
-LWPOLYLINE
-  5
-19D
-330
-2
-100
-AcDbEntity
-  8
-Ndarjet
-100
-AcDbPolyline
- 90
-        2
- 70
-   128
- 43
-0.0
- 10
-7516706.079646724
- 20
-4692433.955741367
- 10
-7516719.78173502
- 20
-4692430.036409823
-  0
-TEXT
-  5
-19E
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
- 62
-     1
-100
-AcDbText
- 10
-7516703.71688372
- 20
-4692396.590620858
- 30
-0.0
- 40
-2.0
-  1
-1690 m²
-100
-AcDbText
-  0
-LWPOLYLINE
-  5
-19F
-330
-2
-100
-AcDbEntity
-  8
-Ndarjet
-100
-AcDbPolyline
- 90
-       13
- 70
-   128
- 43
-0.0
- 10
-7516676.160763105
- 20
-4692429.203592237
- 10
-7516677.913665148
- 20
-4692422.496180746
- 10
-7516680.661144176
- 20
-4692412.584780189
- 10
-7516681.749
- 20
-4692408.701
- 10
-7516688.162
- 20
-4692385.487
- 10
-7516692.838000001
- 20
-4692368.980999999
- 10
-7516694.953
- 20
-4692361.797
- 10
-7516696.920000001
- 20
-4692353.097
- 10
-7516699.873
- 20
-4692342.483
- 10
-7516704.09810182
- 20
-4692327.177662318
- 10
-7516708.274306883
- 20
-4692287.523889129
- 10
-7516708.606297052
- 20
-4692283.153949954
- 10
-7516712.608854355
- 20
-4692233.174606919
-  0
-LWPOLYLINE
-  5
-1A0
-330
-2
-100
-AcDbEntity
-  8
-Parcela Baze
-100
-AcDbPolyline
- 90
-        4
- 70
-   128
- 43
-0.0
- 10
-7516744.44
- 20
-4692333.419999999
- 10
-7516754.672000001
- 20
-4692276.664
- 10
-7516748.452999999
- 20
-4692281.994
- 10
-7516744.44
- 20
-4692333.419999999
-  0
-TEXT
-  5
-1A1
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516728.262602636
- 20
-4692295.792082452
- 30
-0.0
- 40
-2.0
-  1
-shtet
-100
-AcDbText
-  0
-TEXT
-  5
-1A2
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516747.623524041
- 20
-4692303.37731743
- 30
-0.0
- 40
-2.0
-  1
-Pa pron
-100
-AcDbText
-  0
-TEXT
-  5
-1A3
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516754.196762345
- 20
-4692268.33459102
- 30
-0.0
- 40
-2.0
-  1
-Pa pron
-100
-AcDbText
-  0
-TEXT
-  5
-1A4
-330
-2
-100
-AcDbEntity
-  8
-Nr Parceles Baze
-100
-AcDbText
- 10
-7516743.728823788
- 20
-4692113.634718597
- 30
-0.0
- 40
-2.0
-  1
-shtet
-100
-AcDbText
-  0
-TEXT
-  5
-1A5
-330
-2
-100
-AcDbEntity
-  8
-propozim
-100
-AcDbText
- 10
-7516737.038264775
- 20
-4692273.705621915
- 30
-0.0
- 40
-2.0
-  1
-306 m²
-100
-AcDbText
-  0
 ENDSEC
   0
 SECTION
@@ -20277,15 +10857,15 @@ AcDbDictionary
   3
 ACAD_COLOR
 350
-1CF
+64
   3
 ACAD_GROUP
 350
-1C8
+5D
   3
 ACAD_LAYOUT
 350
-1A8
+3D
   3
 ACAD_MATERIAL
 350
@@ -20293,15 +10873,15 @@ D
   3
 ACAD_MLEADERSTYLE
 350
-1D2
+67
   3
 ACAD_MLINESTYLE
 350
-1C9
+5E
   3
 ACAD_PLOTSETTINGS
 350
-1CA
+5F
   3
 ACAD_PLOTSTYLENAME
 350
@@ -20309,31 +10889,31 @@ ACAD_PLOTSTYLENAME
   3
 ACAD_SCALELIST
 350
-1D0
+65
   3
 ACAD_TABLESTYLE
 350
-1D1
+66
   3
 ACAD_VISUALSTYLE
 350
-1C2
+57
   3
 ACDB_RECOMPOSE_DATA
 350
-1FC
+91
   3
 AcDbVariableDictionary
 350
-1EE
+83
   3
 AcDsDecomposeData
 350
-204
+99
   3
 DWGPROPS
 350
-1FE
+93
 1001
 ADE
 1000
@@ -20429,9 +11009,9 @@ NoOfSQLConditionsInHistory=10
   0
 DICTIONARY
   5
-1B3
+48
 330
-1B2
+47
 100
 AcDbDictionary
 280
@@ -20441,15 +11021,15 @@ AcDbDictionary
   3
 ACAD_LAYERFILTERS
 360
-1B4
+49
   3
 ACAD_LAYERSTATES
 360
-1B5
+4A
   3
 ACLYDICTIONARY
 360
-1B6
+4B
   0
 DICTIONARY
   5
@@ -20477,11 +11057,11 @@ AcDbDictionary
   3
 ACAD_SORTENTS
 360
-1ED
+82
   0
 DICTIONARY
   5
-1CF
+64
 102
 {ACAD_REACTORS
 330
@@ -20497,7 +11077,7 @@ AcDbDictionary
   0
 DICTIONARY
   5
-1C8
+5D
 102
 {ACAD_REACTORS
 330
@@ -20513,7 +11093,7 @@ AcDbDictionary
   0
 DICTIONARY
   5
-1A8
+3D
 102
 {ACAD_REACTORS
 330
@@ -20529,15 +11109,15 @@ AcDbDictionary
   3
 Layout1
 350
-1AD
+42
   3
 Layout2
 350
-1B1
+46
   3
 Model
 350
-1A7
+3C
   0
 DICTIONARY
   5
@@ -20557,11 +11137,11 @@ AcDbDictionary
   3
 ByBlock
 350
-1CD
+62
   3
 ByLayer
 350
-1CB
+60
   3
 Global
 350
@@ -20569,7 +11149,7 @@ C
   0
 DICTIONARY
   5
-1D2
+67
 102
 {ACAD_REACTORS
 330
@@ -20585,7 +11165,7 @@ AcDbDictionary
   0
 DICTIONARY
   5
-1C9
+5E
 102
 {ACAD_REACTORS
 330
@@ -20601,11 +11181,11 @@ AcDbDictionary
   3
 Standard
 350
-1D3
+68
   0
 DICTIONARY
   5
-1CA
+5F
 102
 {ACAD_REACTORS
 330
@@ -20645,7 +11225,7 @@ AcDbDictionaryWithDefault
   0
 DICTIONARY
   5
-1D0
+65
 102
 {ACAD_REACTORS
 330
@@ -20661,91 +11241,91 @@ AcDbDictionary
   3
 A0
 350
-1D8
+6D
   3
 A1
 350
-1D9
+6E
   3
 A2
 350
-1DA
+6F
   3
 A3
 350
-1DB
+70
   3
 A4
 350
-1DC
+71
   3
 A5
 350
-1DD
+72
   3
 A6
 350
-1DE
+73
   3
 A7
 350
-1DF
+74
   3
 A8
 350
-1E0
+75
   3
 A9
 350
-1E1
+76
   3
 B0
 350
-1E2
+77
   3
 B1
 350
-1E3
+78
   3
 B2
 350
-1E4
+79
   3
 B3
 350
-1E5
+7A
   3
 B4
 350
-1E6
+7B
   3
 B5
 350
-1E7
+7C
   3
 B6
 350
-1E8
+7D
   3
 B7
 350
-1E9
+7E
   3
 B8
 350
-1EA
+7F
   3
 B9
 350
-1EB
+80
   3
 C0
 350
-1EC
+81
   0
 DICTIONARY
   5
-1D1
+66
 102
 {ACAD_REACTORS
 330
@@ -20761,11 +11341,11 @@ AcDbDictionary
   3
 Standard
 350
-1D4
+69
   0
 DICTIONARY
   5
-1C2
+57
 102
 {ACAD_REACTORS
 330
@@ -20781,19 +11361,19 @@ AcDbDictionary
   3
 2dWireframe
 350
-1C1
+56
   3
 Realistic
 350
-1D6
+6B
   3
 Wireframe
 350
-1D7
+6C
   0
 XRECORD
   5
-1FC
+91
 102
 {ACAD_REACTORS
 330
@@ -20809,11 +11389,11 @@ AcDbXrecord
  90
         1
 330
-1D4
+69
   0
 DICTIONARY
   5
-1EE
+83
 102
 {ACAD_REACTORS
 330
@@ -20829,51 +11409,51 @@ AcDbDictionary
   3
 CANNOSCALE
 350
-1F3
+88
   3
 CMLEADERSTYLE
 350
-1F0
+85
   3
 CTABLESTYLE
 350
-1EF
+84
   3
 CVIEWDETAILSTYLE
 350
-1F1
+86
   3
 CVIEWSECTIONSTYLE
 350
-1F2
+87
   3
 DIMASSOC
 350
-1F8
+8D
   3
 HIDETEXT
 350
-1F6
+8B
   3
 INDEXCTL
 350
-1F5
+8A
   3
 SOLIDHIST
 350
-1F9
+8E
   3
 SORTENTS
 350
-1F4
+89
   3
 XCLIPFRAME
 350
-1F7
+8C
   0
 DICTIONARY
   5
-204
+99
 102
 {ACAD_REACTORS
 330
@@ -20889,11 +11469,11 @@ AcDbDictionary
   3
 AcDsRecords
 350
-206
+9B
   3
 AcDsSchemas
 350
-205
+9A
 1001
 ACAD
 1070
@@ -20901,7 +11481,7 @@ ACAD
   0
 XRECORD
   5
-1FE
+93
 102
 {ACAD_REACTORS
 330
@@ -20951,11 +11531,11 @@ yarrist
 309
 =
  40
-0.0007378240740741
+0.0005041319444444
  41
-2461021.44279816
+2461021.485126806
  42
-2461021.44353522
+2461021.485630197
   1
 
  90
@@ -20963,15 +11543,15 @@ yarrist
   0
 DICTIONARY
   5
-1B4
+49
 102
 {ACAD_REACTORS
 330
-1B3
+48
 102
 }
 330
-1B3
+48
 100
 AcDbDictionary
 281
@@ -20979,15 +11559,15 @@ AcDbDictionary
   0
 DICTIONARY
   5
-1B5
+4A
 102
 {ACAD_REACTORS
 330
-1B3
+48
 102
 }
 330
-1B3
+48
 100
 AcDbDictionary
 281
@@ -20995,15 +11575,15 @@ AcDbDictionary
   0
 DICTIONARY
   5
-1B6
+4B
 102
 {ACAD_REACTORS
 330
-1B3
+48
 102
 }
 330
-1B3
+48
 100
 AcDbDictionary
 281
@@ -21015,7 +11595,7 @@ ACAD
   0
 SORTENTSTABLE
   5
-1ED
+82
 102
 {ACAD_REACTORS
 330
@@ -21031,21 +11611,21 @@ AcDbSortentsTable
   0
 LAYOUT
   5
-1AD
+42
 102
 {ACAD_XDICTIONARY
 360
-209
+9E
 102
 }
 102
 {ACAD_REACTORS
 330
-1A8
+3D
 102
 }
 330
-1A8
+3D
 100
 AcDbPlotSettings
   1
@@ -21159,25 +11739,25 @@ Layout1
  76
      0
 330
-1AA
+3F
   0
 LAYOUT
   5
-1B1
+46
 102
 {ACAD_XDICTIONARY
 360
-20B
+A0
 102
 }
 102
 {ACAD_REACTORS
 330
-1A8
+3D
 102
 }
 330
-1A8
+3D
 100
 AcDbPlotSettings
   1
@@ -21291,25 +11871,25 @@ Layout2
  76
      0
 330
-1AE
+43
   0
 LAYOUT
   5
-1A7
+3C
 102
 {ACAD_XDICTIONARY
 360
-1A9
+3E
 102
 }
 102
 {ACAD_REACTORS
 330
-1A8
+3D
 102
 }
 330
-1A8
+3D
 100
 AcDbPlotSettings
   1
@@ -21425,15 +12005,15 @@ Model
 330
 2
 331
-1C0
+55
   0
 MATERIAL
   5
-1CD
+62
 102
 {ACAD_XDICTIONARY
 360
-1CE
+63
 102
 }
 102
@@ -21463,11 +12043,11 @@ ByBlock
   0
 MATERIAL
   5
-1CB
+60
 102
 {ACAD_XDICTIONARY
 360
-1CC
+61
 102
 }
 102
@@ -21531,15 +12111,15 @@ Global
   0
 MLINESTYLE
   5
-1D3
+68
 102
 {ACAD_REACTORS
 330
-1C9
+5E
 102
 }
 330
-1C9
+5E
 100
 AcDbMlineStyle
   2
@@ -21583,15 +12163,15 @@ ACDBPLACEHOLDER
   0
 SCALE
   5
-1D8
+6D
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21607,15 +12187,15 @@ AcDbScale
   0
 SCALE
   5
-1D9
+6E
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21631,15 +12211,15 @@ AcDbScale
   0
 SCALE
   5
-1DA
+6F
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21655,15 +12235,15 @@ AcDbScale
   0
 SCALE
   5
-1DB
+70
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21679,15 +12259,15 @@ AcDbScale
   0
 SCALE
   5
-1DC
+71
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21703,15 +12283,15 @@ AcDbScale
   0
 SCALE
   5
-1DD
+72
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21727,15 +12307,15 @@ AcDbScale
   0
 SCALE
   5
-1DE
+73
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21751,15 +12331,15 @@ AcDbScale
   0
 SCALE
   5
-1DF
+74
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21775,15 +12355,15 @@ AcDbScale
   0
 SCALE
   5
-1E0
+75
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21799,15 +12379,15 @@ AcDbScale
   0
 SCALE
   5
-1E1
+76
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21823,15 +12403,15 @@ AcDbScale
   0
 SCALE
   5
-1E2
+77
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21847,15 +12427,15 @@ AcDbScale
   0
 SCALE
   5
-1E3
+78
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21871,15 +12451,15 @@ AcDbScale
   0
 SCALE
   5
-1E4
+79
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21895,15 +12475,15 @@ AcDbScale
   0
 SCALE
   5
-1E5
+7A
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21919,15 +12499,15 @@ AcDbScale
   0
 SCALE
   5
-1E6
+7B
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21943,15 +12523,15 @@ AcDbScale
   0
 SCALE
   5
-1E7
+7C
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21967,15 +12547,15 @@ AcDbScale
   0
 SCALE
   5
-1E8
+7D
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -21991,15 +12571,15 @@ AcDbScale
   0
 SCALE
   5
-1E9
+7E
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -22015,15 +12595,15 @@ AcDbScale
   0
 SCALE
   5
-1EA
+7F
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -22039,15 +12619,15 @@ AcDbScale
   0
 SCALE
   5
-1EB
+80
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -22063,15 +12643,15 @@ AcDbScale
   0
 SCALE
   5
-1EC
+81
 102
 {ACAD_REACTORS
 330
-1D0
+65
 102
 }
 330
-1D0
+65
 100
 AcDbScale
  70
@@ -22087,21 +12667,21 @@ AcDbScale
   0
 TABLESTYLE
   5
-1D4
+69
 102
 {ACAD_XDICTIONARY
 360
-1D5
+6A
 102
 }
 102
 {ACAD_REACTORS
 330
-1D1
+66
 102
 }
 330
-1D1
+66
 100
 AcDbTableStyle
   3
@@ -22265,21 +12845,21 @@ Standard
   0
 VISUALSTYLE
   5
-1C1
+56
 102
 {ACAD_XDICTIONARY
 360
-20D
+A2
 102
 }
 102
 {ACAD_REACTORS
 330
-1C2
+57
 102
 }
 330
-1C2
+57
 100
 AcDbVisualStyle
   2
@@ -22359,21 +12939,21 @@ AcDbSavedByObjectVersion
   0
 VISUALSTYLE
   5
-1D6
+6B
 102
 {ACAD_XDICTIONARY
 360
-212
+A7
 102
 }
 102
 {ACAD_REACTORS
 330
-1C2
+57
 102
 }
 330
-1C2
+57
 100
 AcDbVisualStyle
   2
@@ -22453,21 +13033,21 @@ AcDbSavedByObjectVersion
   0
 VISUALSTYLE
   5
-1D7
+6C
 102
 {ACAD_XDICTIONARY
 360
-214
+A9
 102
 }
 102
 {ACAD_REACTORS
 330
-1C2
+57
 102
 }
 330
-1C2
+57
 100
 AcDbVisualStyle
   2
@@ -22547,15 +13127,15 @@ AcDbSavedByObjectVersion
   0
 DICTIONARYVAR
   5
-1F3
+88
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22565,15 +13145,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F0
+85
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22583,15 +13163,15 @@ STANDARD
   0
 DICTIONARYVAR
   5
-1EF
+84
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22601,15 +13181,15 @@ STANDARD
   0
 DICTIONARYVAR
   5
-1F1
+86
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22619,15 +13199,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F2
+87
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22637,15 +13217,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F8
+8D
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22655,15 +13235,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F6
+8B
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22673,15 +13253,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F5
+8A
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22691,15 +13271,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F9
+8E
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22709,15 +13289,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F4
+89
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22727,15 +13307,15 @@ DictionaryVariables
   0
 DICTIONARYVAR
   5
-1F7
+8C
 102
 {ACAD_REACTORS
 330
-1EE
+83
 102
 }
 330
-1EE
+83
 100
 DictionaryVariables
 280
@@ -22745,15 +13325,15 @@ DictionaryVariables
   0
 DICTIONARY
   5
-206
+9B
 102
 {ACAD_REACTORS
 330
-204
+99
 102
 }
 330
-204
+99
 100
 AcDbDictionary
 281
@@ -22761,45 +13341,45 @@ AcDbDictionary
   0
 DICTIONARY
   5
-205
+9A
 102
 {ACAD_REACTORS
 330
-204
+99
 102
 }
 330
-204
+99
 100
 AcDbDictionary
 281
      1
   3
-140688628242928
+140688628122048
 350
-1FF
+94
   3
-140688628242944
+140688628122064
 350
-200
+95
   3
-140688628242960
+140688628122080
 350
-201
+96
   3
-140688628242976
+140688628122096
 350
-202
+97
   3
-140688628242992
+140688628122112
 350
-203
+98
   0
 DICTIONARY
   5
-209
+9E
 330
-1AD
+42
 100
 AcDbDictionary
 280
@@ -22809,13 +13389,13 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-20A
+9F
   0
 DICTIONARY
   5
-20B
+A0
 330
-1B1
+46
 100
 AcDbDictionary
 280
@@ -22825,13 +13405,13 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-20C
+A1
   0
 DICTIONARY
   5
-1A9
+3E
 330
-1A7
+3C
 100
 AcDbDictionary
 280
@@ -22841,13 +13421,13 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-208
+9D
   0
 DICTIONARY
   5
-1CE
+63
 330
-1CD
+62
 100
 AcDbDictionary
 280
@@ -22857,13 +13437,13 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-210
+A5
   0
 DICTIONARY
   5
-1CC
+61
 330
-1CB
+60
 100
 AcDbDictionary
 280
@@ -22873,7 +13453,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-20F
+A4
   0
 DICTIONARY
   5
@@ -22889,13 +13469,13 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-207
+9C
   0
 DICTIONARY
   5
-1D5
+6A
 330
-1D4
+69
 100
 AcDbDictionary
 280
@@ -22905,17 +13485,17 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-1FB
+90
   3
 ACAD_XREC_ROUNDTRIP
 360
-211
+A6
   0
 DICTIONARY
   5
-20D
+A2
 330
-1C1
+56
 100
 AcDbDictionary
 280
@@ -22925,13 +13505,13 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-20E
+A3
   0
 DICTIONARY
   5
-212
+A7
 330
-1D6
+6B
 100
 AcDbDictionary
 280
@@ -22941,13 +13521,13 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-213
+A8
   0
 DICTIONARY
   5
-214
+A9
 330
-1D7
+6C
 100
 AcDbDictionary
 280
@@ -22957,19 +13537,19 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-215
+AA
   0
 XRECORD
   5
-1FF
+94
 102
 {ACAD_REACTORS
 330
-205
+9A
 102
 }
 330
-205
+9A
 100
 AcDbXrecord
 280
@@ -22979,7 +13559,7 @@ AcDb_Thumbnail_Schema
 102
 {ATTRRECORD
 341
-200
+95
   2
 AcDbDs::TreatedAsObjectData
 280
@@ -22991,7 +13571,7 @@ ATTRRECORD}
 102
 {ATTRRECORD
 341
-201
+96
   2
 AcDbDs::Legacy
 280
@@ -23009,7 +13589,7 @@ AcDbDs::ID
 102
 {ATTRRECORD
 341
-202
+97
   2
 AcDs:Indexable
 280
@@ -23021,7 +13601,7 @@ ATTRRECORD}
 102
 {ATTRRECORD
 341
-203
+98
   2
 AcDbDs::HandleAttribute
 280
@@ -23039,15 +13619,15 @@ Thumbnail_Data
   0
 XRECORD
   5
-200
+95
 102
 {ACAD_REACTORS
 330
-205
+9A
 102
 }
 330
-205
+9A
 100
 AcDbXrecord
 280
@@ -23063,15 +13643,15 @@ AcDbDs::TreatedAsObjectData
   0
 XRECORD
   5
-201
+96
 102
 {ACAD_REACTORS
 330
-205
+9A
 102
 }
 330
-205
+9A
 100
 AcDbXrecord
 280
@@ -23087,15 +13667,15 @@ AcDbDs::Legacy
   0
 XRECORD
   5
-202
+97
 102
 {ACAD_REACTORS
 330
-205
+9A
 102
 }
 330
-205
+9A
 100
 AcDbXrecord
 280
@@ -23111,15 +13691,15 @@ AcDs:Indexable
   0
 XRECORD
   5
-203
+98
 102
 {ACAD_REACTORS
 330
-205
+9A
 102
 }
 330
-205
+9A
 100
 AcDbXrecord
 280
@@ -23137,15 +13717,15 @@ AcDbDs::HandleAttribute
   0
 XRECORD
   5
-20A
+9F
 102
 {ACAD_REACTORS
 330
-209
+9E
 102
 }
 330
-209
+9E
 100
 AcDbXrecord
 280
@@ -23165,15 +13745,15 @@ SHADEPLOTCUSTOMDPI
   0
 XRECORD
   5
-20C
+A1
 102
 {ACAD_REACTORS
 330
-20B
+A0
 102
 }
 330
-20B
+A0
 100
 AcDbXrecord
 280
@@ -23193,15 +13773,15 @@ SHADEPLOTCUSTOMDPI
   0
 XRECORD
   5
-208
+9D
 102
 {ACAD_REACTORS
 330
-1A9
+3E
 102
 }
 330
-1A9
+3E
 100
 AcDbXrecord
 280
@@ -23221,15 +13801,15 @@ SHADEPLOTCUSTOMDPI
   0
 XRECORD
   5
-210
+A5
 102
 {ACAD_REACTORS
 330
-1CE
+63
 102
 }
 330
-1CE
+63
 100
 AcDbXrecord
 280
@@ -23263,15 +13843,15 @@ MATERIAL
   0
 XRECORD
   5
-20F
+A4
 102
 {ACAD_REACTORS
 330
-1CC
+61
 102
 }
 330
-1CC
+61
 100
 AcDbXrecord
 280
@@ -23305,7 +13885,7 @@ MATERIAL
   0
 XRECORD
   5
-207
+9C
 102
 {ACAD_REACTORS
 330
@@ -23347,15 +13927,15 @@ MATERIAL
   0
 CELLSTYLEMAP
   5
-1FB
+90
 102
 {ACAD_REACTORS
 330
-1D5
+6A
 102
 }
 330
-1D5
+6A
 100
 AcDbCellStyleMap
  90
@@ -23399,7 +13979,7 @@ CONTENTFORMAT_BEGIN
  62
      0
 340
-122
+16
 144
 0.25
 309
@@ -23591,7 +14171,7 @@ CONTENTFORMAT_BEGIN
  62
      0
 340
-122
+16
 144
 0.18
 309
@@ -23783,7 +14363,7 @@ CONTENTFORMAT_BEGIN
  62
      0
 340
-122
+16
 144
 0.18
 309
@@ -23939,15 +14519,15 @@ CELLSTYLE_END
   0
 XRECORD
   5
-211
+A6
 102
 {ACAD_REACTORS
 330
-1D5
+6A
 102
 }
 330
-1D5
+6A
 100
 AcDbXrecord
 280
@@ -23975,15 +14555,15 @@ ACAD_ROUNDTRIP_PRE2007_TABLESTYLE
   0
 XRECORD
   5
-20E
+A3
 102
 {ACAD_REACTORS
 330
-20D
+A2
 102
 }
 330
-20D
+A2
 100
 AcDbXrecord
 280
@@ -24495,15 +15075,15 @@ RTVSPropertyOp62
   0
 XRECORD
   5
-213
+A8
 102
 {ACAD_REACTORS
 330
-212
+A7
 102
 }
 330
-212
+A7
 100
 AcDbXrecord
 280
@@ -25015,15 +15595,15 @@ RTVSPropertyOp62
   0
 XRECORD
   5
-215
+AA
 102
 {ACAD_REACTORS
 330
-214
+A9
 102
 }
 330
-214
+A9
 100
 AcDbXrecord
 280
