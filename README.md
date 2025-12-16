@@ -32,6 +32,16 @@ qasja ne anen lindore ne gjendjen faktike gardhi, dhe ana veriore 1m rruge
 # parcelat
 
 ```
+Visar (Kemajl) Avdullahu
+1005029925
+00700-64
+Bibaj
+Ferizaj
++38349728666
+Rr."Bau Bajden"   
+
+BRI NËN RRUGË
+
 
 
 ```
